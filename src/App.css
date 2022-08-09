@@ -361,6 +361,10 @@ box-shadow: #ffffff 0px 0px 1px 1px !important;
 background-color: #ffffff !important;
 }
 
+.kCa-dlP{
+box-shadow: #ffffff 0px 0px 1px 1px;
+}
+
 .word-slider{
   z-index: 999;
 }
