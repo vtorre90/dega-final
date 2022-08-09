@@ -14,7 +14,7 @@ function App() {
     <Router>
       <Switch>
         <Route path="/contacts" component={Contactpage}/>
-        <Route path="/" component={Homepage} />
+        <Route path="*" component={Homepage} />
       </Switch>
     </Router>
   </div>
