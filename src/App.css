@@ -104,6 +104,7 @@ h3{
   height: 80px;
   z-index: 999;
   padding-left: 24px;
+  background-color: #000000;
 }
 
 .hamburger{
@@ -312,12 +313,12 @@ h3{
 }
 
 .krmNah{
-  background-color: white !important;
+  background-color: #ffffff !important;
   box-shadow: none !important;
 }
 
 .jhmYzC{
-  border: 1px solid white !important;
+  border: 1px solid #ffffff !important;
 }
 
 .sc-ftvSup{
