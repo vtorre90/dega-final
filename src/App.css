@@ -223,6 +223,7 @@ h3{
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  overflow-y: hidden;
 }
 
 .card-main{
