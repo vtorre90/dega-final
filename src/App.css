@@ -218,7 +218,7 @@ h3{
   height: 100vh;
   background-color: var(--black);
   overflow-x: hidden;
-  padding: 50px 32px;
+  padding: 50px 16px;
   margin-top: -1px;
   display: flex;
   flex-direction: column;
