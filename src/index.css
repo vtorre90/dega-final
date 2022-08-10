@@ -11,7 +11,7 @@ code {
 
 @font-face {
   font-family: 'Bodoni MT';
-  src: local('bodoni.TTF'), url(./fonts/bodoni.TTF) format('TTF');
+  src: local('bodoni.TTF'), url(./fonts/bodoni.TTF) format("truetype");
   /* other formats include: 'woff2', 'truetype, 'opentype',
                             'embedded-opentype', and 'svg' */
 }
