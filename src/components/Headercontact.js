@@ -9,7 +9,7 @@ function Header() {
                 <Data />
             </span>
             <span className="hamburger">
-                <a href="/contacts">
+                <a href="/">
                     <button className="hamburger-black-btn">
                     </button> 
                 </a>
