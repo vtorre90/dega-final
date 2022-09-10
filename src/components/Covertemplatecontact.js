@@ -16,13 +16,13 @@ function Convertemplatecontact(){
                 <div className="dots orange"></div>
             </div>
             <div className="d-flex flex-column text-main mt-5 line-height-sm">
-                <i>Sede operativa</i>
+                <i className="subtitle">Sede operativa</i>
                 <span>Enrico Deganello Studio</span>
                 <span>Via Saccarelli 14</span>
                 <span>10144, Torino, Italia</span>
-            </div>
+            </div> 
             <div className="d-flex flex-column text-main line-height-sm">
-                <i>Sede legale</i>
+                <i className="subtitle">Sede legale</i>
                 <span>Enrico Deganello</span>
                 <span>Via Tiziano Vecellio 73</span>
                 <span>35100, Padova, Italia</span>
