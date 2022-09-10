@@ -8,7 +8,7 @@
 }
 
 body{
-  font-family: 'Bodoni MT';
+  font-family: 'Oswald';
   line-height: 2rem;
 }
 
@@ -155,7 +155,7 @@ h3{
 }
 
 .date-main{
-   font-family: 'Bodoni MT';
+  font-family: 'Oswald';
   font-weight: 400;
   font-size: 16px;
   font-style: italic; 
@@ -334,7 +334,7 @@ h3{
 }
 
 .slider{
-  font-family: 'Bodoni MT';
+  font-family: 'Oswald';
   display: flex;
   align-items: center;
   justify-content: center;
