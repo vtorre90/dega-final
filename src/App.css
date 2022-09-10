@@ -404,3 +404,7 @@ box-shadow: #ffffff 0px 0px 1px 1px !important;
 margin: 0px !important;
 }
 
+.subtitle{
+font-size: 15px; 
+font-weight: 200px;
+}
