@@ -2,7 +2,7 @@ import React from "react";
 
 function Contentreviews(){
     return(
-        <div className="text-black text-center">
+        <div className="text-black">
             "La collaborazione con Enrico Deganello ci ha permesso di evolvere come azienda mostrandoci al pubblico come desideravamo e trovando il nostro target di riferimento" 
         <br>
             <span class="text-light">Paolo Bosca / Mabo 1971</span>
