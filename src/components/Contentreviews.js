@@ -16,7 +16,8 @@ function Contentreviews(){
         <br>
         " La collaborazione con Enrico Deganello ci ha permesso di evolvere come azienda mostrandoci al pubblico come desideravamo e trovando il nostro target di riferimento"
       Roberta Bonomi / Innovative Surface
-        </div>
+        
+        <div/>
     );
 }
 
