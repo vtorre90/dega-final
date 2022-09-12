@@ -11,8 +11,8 @@ function Convertemplate(){
         <div className="cover-template-cont text-black" >
             <Contentcont/>
             <Breadcrumblack text="References" className="text-black"/>
-            <Contentcont/>
-            <Breadcrumblack text="References" className="text-black"/>
+            <Contentreviews/>
+            <Breadcrumblack text="Contacts" className="text-black"/>
         </div>
     );
 }
