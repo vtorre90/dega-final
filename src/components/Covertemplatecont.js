@@ -5,6 +5,7 @@ import Content from "./Content";
 // import Footer from './Footer';
 import Breadcrumblack from "./Breadcrumblack";
 import Contentcont from "./Contentcont";
+import Contentreviews from "./Contentreviews";
 
 function Convertemplate(){
     return(
