@@ -252,12 +252,14 @@ h3 {
 
 #picdesigner {
   width: 100%;
+  border-radius: 27px;
 }
 
 .contactCont__content {
   font-weight: 100;
   color: #383838;
   font-size: 18px;
+  padding-bottom: 30px;
 }
 
 .cover-template-cont {
