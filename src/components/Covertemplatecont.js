@@ -5,17 +5,18 @@ import Content from "./Content";
 // import Footer from './Footer';
 import Breadcrumblack from "./Breadcrumblack";
 import Contentcont from "./Contentcont";
-import Contentreviews from "./Contentreviews";
 
-function Convertemplate(){
-    return(
-        <div className="cover-template-cont text-black" >
-            <Contentcont/>
-            <Breadcrumblack text="References" className="text-black"/>
-            <Contentreviews/>
-            <Breadcrumblack text="Contacts" className="text-black"/>
-        </div>
-    );
+function Convertemplate() {
+  return (
+    <div className="cover-template-cont text-black">
+      <Contentcont />
+      <Breadcrumblack
+        text="Activities"
+        className="text-black"
+        link="activities"
+      />
+    </div>
+  );
 }
 
 export default Convertemplate;

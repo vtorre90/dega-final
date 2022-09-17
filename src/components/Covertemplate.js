@@ -5,13 +5,13 @@ import Content from "./Content";
 // import Footer from './Footer';
 import Breadcrumb from "./Breadcrumb";
 
-function Convertemplate(){
-    return(
-        <div className="cover-template">
-            <Content />
-            <Breadcrumb text="Stories"/>
-        </div>
-    );
+function Convertemplate() {
+  return (
+    <div className="cover-template">
+      <Content />
+      <Breadcrumb text="Stories" link="stories" />
+    </div>
+  );
 }
 
 export default Convertemplate;
