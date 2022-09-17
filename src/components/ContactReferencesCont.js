@@ -9,7 +9,7 @@ const ContactReferencesCont = () => {
         className="mb-3"
       />
       <h4>Attivita</h4>
-      <p className="pt-2">
+      <p className="pt-2 contactPage__activites">
         corporate identity
         <br />
         catalogues

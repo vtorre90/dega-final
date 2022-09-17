@@ -8,17 +8,17 @@ function Contentcont() {
         id="picdesigner"
         className="mb-3"
       />
-      <h4>Enrico Deganello / Sahar Alizadeh Fard</h4>
-      <p className="pt-3">
-        Lo studio è condotto da Enrico DeganelloDuis aute irure dolor in
-        reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa
-        qui officia deserunt mollit anim id est laborum. Id velit ut tortor
-        pretium viverra suspendisse potenti nullam. Tortor aliquam nulla
-        facilisi cras fermentum odio eu feugiat pretium. In ornare quam viverra
-        orci sagittis. Odio tempor orci dapibus ultrices in iaculis nunc. In
-        vitae turpis massa sed elementum tempus egestas sed. Tortor at auctor
-        urna nunc id.
+      <h4 style={{ fontWeight: "600" }}>
+        Enrico Deganello / Sahar Alizadeh Fard
+      </h4>
+      <p className="pt-3 contactCont__content">
+        Lo studio si occupa di direzione artistica, direzione creativa e
+        consulenza strategica nell'ambito dell'interior design. L'attività
+        consiste nel condurre e coordinare progetti organici finalizzati alla
+        definizione di una identità aziendale esclusiva. Le aree di intervento
+        sono varie e complementari e prevedono, in funzione degli obiettivi
+        stabiliti, il contributo di collaboratori e professionisti specifici per
+        ciascun settore.
       </p>
     </div>
   );

@@ -164,7 +164,28 @@ h3 {
 .main-content {
   font-size: 27px;
   line-height: 40px;
-  padding-top: 100px;
+  /* padding-top: 100px; */
+  padding-top: 255px;
+}
+
+.homePage__title1 {
+  font-size: 24px;
+  color: white;
+}
+
+.homePage__title2 {
+  font-size: 38px;
+  font-weight: bold;
+  color: white;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+.homePage__content {
+  color: white;
+  font-size: 18px;
+  font-weight: 100;
+  line-height: 22px;
 }
 
 .date {
@@ -217,7 +238,8 @@ h3 {
 .cover-template {
   height: 100vh;
   /* background-color: var(--black); */
-  background-image: url("./assets/home.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("./assets/home.jpg");
   background-position: center;
   background-size: cover;
   overflow-x: hidden;
@@ -232,6 +254,12 @@ h3 {
   width: 100%;
 }
 
+.contactCont__content {
+  font-weight: 100;
+  color: #383838;
+  font-size: 18px;
+}
+
 .cover-template-cont {
   /* padding-top: 80px;
   background-color: #ffffff;
@@ -244,6 +272,11 @@ h3 {
   padding-right: 16px;
   padding-left: 16px;
   padding-bottom: 38px;
+}
+
+.contactPage__activites {
+  font-size: 22px;
+  color: #606060;
 }
 
 .cover-template-slider {
@@ -492,7 +525,7 @@ h3 {
   overflow-x: hidden;
   padding: 0px 16px;
   /* padding-top: 125px; */
-  padding-bottom: 20px;
+  padding-bottom: 65px;
   margin-top: -1px;
   display: flex;
   flex-direction: column;
@@ -502,8 +535,8 @@ h3 {
 
 .contact-text {
   color: var(--black);
-  padding-bottom: 40px;
-  font-size: 25px;
+  padding-bottom: 70px;
+  font-size: 16px;
 }
 
 /* mobile view img height */
