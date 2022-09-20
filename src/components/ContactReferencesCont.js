@@ -6,7 +6,7 @@ const ContactReferencesCont = () => {
       <img
         src={process.env.PUBLIC_URL + "/lavandino.png"}
         id="picdesigner"
-        className="mb-3"
+        className="mb-3 lavandino"
       />
       <h4>Attivita</h4>
       <p className="pt-2 contactPage__activites">
