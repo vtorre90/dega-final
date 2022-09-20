@@ -38,7 +38,7 @@ export default function Slider() {
       title1: "Architectural Firm",
       description:
         "Un nuovo alfabeto progettuale nel mondo dell'arredobagno per una lettura contemporanea di come viviamo e pensiamo lo spazio dedicato a noi stessi.",
-      image: "/assets/slider-6.jpg",
+      image: "/assets/coverimage2.jpg",
     },
     {
       title: "Gentilin",
