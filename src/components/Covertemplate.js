@@ -9,7 +9,7 @@ function Convertemplate() {
   return (
     <div className="cover-template">
       <Content />
-      //<Breadcrumb text="Stories" link="stories" />
+      
     </div>
   );
 }
