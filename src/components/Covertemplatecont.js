@@ -10,11 +10,6 @@ function Convertemplate() {
   return (
     <div className="cover-template-cont text-black">
       <Contentcont />
-      <Breadcrumblack
-        text="Activities"
-        className="text-black"
-        link="activities"
-      />
     </div>
   );
 }
