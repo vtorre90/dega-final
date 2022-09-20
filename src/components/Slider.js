@@ -27,28 +27,21 @@ export default function Slider() {
 
   const modelData = [
     {
-      title: "Mabol1970",
-      title1: "Sarti del Metallo",
+      title: "Plebani",
+      title1: "Made in Kitchen",
       description:
         "Procursori della lavorazione del metallo secondi i canoni del design contemporaneo. Mabol1970 realizza opere d'architettura in tutto il mondo.",
       image: "/assets/slider-2.jpg",
     },
     {
-      title: "Arteba",
-      title1: "L'alfabeto del metallo",
-      description:
-        "Un nuovo alfabeto progettuale nel mondo dell'arredobagno per una lettura contemporanea di come viviamo e pensiamo lo spazio dedicato a noi stessi.",
-      image: "/assets/slider-4.jpg",
-    },
-    {
-      title: "Mood",
-      title1: "The Design Magazine",
+      title: "G.M.P.",
+      title1: "Architectural Firm",
       description:
         "Un nuovo alfabeto progettuale nel mondo dell'arredobagno per una lettura contemporanea di come viviamo e pensiamo lo spazio dedicato a noi stessi.",
       image: "/assets/slider-6.jpg",
     },
     {
-      title: "Gentilin Design",
+      title: "Gentilin",
       title1: "Design Takeaway",
       description:
         "Design e grande distribuzione si incontrano in una collezione di prodotti che mixano irriverenza, rigore formale e tecniche produttive.",
@@ -56,14 +49,28 @@ export default function Slider() {
     },
     {
       title: "Innovative Surface",
-      title1: "Cemento contemporaneo",
+      title1: "Cemento Contemporaneo",
       description:
         "Un nuovo alfabeto progettuale nel mondo dell'arredobagno per una lettura contemporanea di come viviamo e pensiamo lo spazio dedicato a noi stessi.",
       image: "/assets/slider-5.jpg",
     },
+     {
+      title: "Mabo 1970",
+      title1: "Sarti del Metallo",
+      description:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      image: "/assets/slider-6.jpg",
+    },
+     {
+      title: "Mabo 1970",
+      title1: "Back to Nature",
+      description:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      image: "/assets/slider-6.jpg",
+    },
     {
-      title: "Gianmario Prandina",
-      title1: "Architectural Firm",
+      title: "Arteba",
+      title1: "Alfabeto del Benessere",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       image: "/assets/slider-6.jpg",
