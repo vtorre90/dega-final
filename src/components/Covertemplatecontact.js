@@ -8,9 +8,6 @@ function Convertemplatecontact() {
   return (
     <div className="cover-template-slider" id="contact">
       <div className="text-main line-height-sm">
-        Tutte le linee
-        <br /> iniziano da un
-        <br /> punto
       </div>
       <div className="dots-main">
         <img className="dots" src="assets/instagram_trasparent.png" alt="" />
