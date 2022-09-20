@@ -9,7 +9,6 @@ function Convertemplateslider() {
   return (
     <div className="cover-template-slider" id="stories">
       <Slider />
-      <Breadcrumb text="Contact" className="text-main" link="contact" />
     </div>
   );
 }
