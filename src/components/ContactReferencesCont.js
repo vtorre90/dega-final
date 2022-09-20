@@ -4,7 +4,7 @@ const ContactReferencesCont = () => {
   return (
     <div className="text-black">
       <img
-        src={process.env.PUBLIC_URL + "/picdesigner.jpg"}
+        src={process.env.PUBLIC_URL + "/lavandino.png"}
         id="picdesigner"
         className="mb-3"
       />
