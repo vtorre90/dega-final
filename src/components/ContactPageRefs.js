@@ -33,7 +33,6 @@ const ContactPageRefs = () => {
         </p>
         <p>Roberta Bonomi / Innovative Surface</p>
       </div>
-      <Breadcrumblack text="Contacts" className="text-black" link="contacts" />
     </div>
   );
 };
