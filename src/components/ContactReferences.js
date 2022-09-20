@@ -10,7 +10,6 @@ function ContactReferences() {
   return (
     <div className="contactReferences text-black" id="activities">
       <ContactReferencesCont />
-      <Breadcrumblack text="References" className="text-black" link="refs" />
     </div>
   );
 }
