@@ -11,7 +11,7 @@ function Contentcont() {
       <h4 style={{ fontWeight: "600" }}>
         Enrico Deganello / Sahar Alizadeh Fard
       </h4>
-      <p className="pt-2 contactCont__content">
+      <p className="pt-3 contactCont__content">
         Lo studio si occupa di direzione artistica, direzione creativa e
         consulenza strategica nell'ambito dell'interior design. L'attività
         consiste nel condurre e coordinare progetti organici finalizzati alla
