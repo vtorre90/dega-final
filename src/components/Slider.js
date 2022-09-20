@@ -31,7 +31,7 @@ export default function Slider() {
       title1: "Made in Kitchen",
       description:
         "Procursori della lavorazione del metallo secondi i canoni del design contemporaneo. Mabol1970 realizza opere d'architettura in tutto il mondo.",
-      image: "/assets/COVER IMAGE1.jpg",
+      image: "/assets/coverimage1.jpg",
     },
     {
       title: "G.M.P.",
