@@ -301,6 +301,10 @@ h3 {
   margin-bottom: 16px;
 }
 
+.lavandino{
+  border-radius: 30px;
+}
+
 .card-content {
   display: flex;
   flex-direction: column;
