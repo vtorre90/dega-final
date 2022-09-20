@@ -6,7 +6,7 @@ import Breadcrumb from "./Breadcrumb";
 
 function Convertemplatecontact() {
   return (
-    <div className="cover-template-slider" id="contact">
+    <div className="cover-template-slider -mt-5" id="contact">
       <div className="text-main line-height-sm">
       </div>
       <div className="dots-main">
