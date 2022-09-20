@@ -45,35 +45,35 @@ export default function Slider() {
       title1: "Design Takeaway",
       description:
         "Design e grande distribuzione si incontrano in una collezione di prodotti che mixano irriverenza, rigore formale e tecniche produttive.",
-      image: "/assets/slider-3.jpg",
+      image: "/assets/coverimage3.jpg",
     },
     {
       title: "Innovative Surface",
       title1: "Cemento Contemporaneo",
       description:
         "Un nuovo alfabeto progettuale nel mondo dell'arredobagno per una lettura contemporanea di come viviamo e pensiamo lo spazio dedicato a noi stessi.",
-      image: "/assets/slider-5.jpg",
+      image: "/assets/coverimage4.jpg",
     },
      {
       title: "Mabo 1970",
       title1: "Sarti del Metallo",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      image: "/assets/slider-6.jpg",
+      image: "/assets/coverimage5.jpg",
     },
      {
       title: "Mabo 1970",
       title1: "Back to Nature",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      image: "/assets/slider-6.jpg",
+      image: "/assets/coverimage6.jpg",
     },
     {
       title: "Arteba",
       title1: "Alfabeto del Benessere",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      image: "/assets/slider-6.jpg",
+      image: "/assets/coverimage7.jpg",
     },
     {
       title: "Bruni",
