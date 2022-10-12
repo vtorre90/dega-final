@@ -53,9 +53,6 @@ export default function Slider() {
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       image: "/assets/coverimage5.jpg",
-       
-       title: "Catalogo IS",
-      title1: "2020",
    
     },
       {
@@ -64,6 +61,8 @@ export default function Slider() {
       description:
         "Elegante, materico, resistente e senza fughe, la finitura cementizia IS veste gli spazi creando la giusta cornice di ogni progetto.",
       image: "/assets/coverimage4.jpg",
+         title: "Catalogo IS",
+      title1: "2020",
     },
      {
       title: "Gentilin",
