@@ -12,6 +12,7 @@ import { Modal } from "@mui/material";
 
 // ** import icons
 import { X } from "react-feather";
+import CustomInnovativeSlider from "./CustomInnovativeSlider";
 
 const breakPoints = [
   { width: 1, itemsToShow: 1 },
@@ -33,58 +34,57 @@ export default function Slider() {
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       image: "/assets/coverimage8.jpg",
     },
-     {
+    {
       title: "Arteba",
       title1: "Alfabeto del Benessere",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       image: "/assets/coverimage7.jpg",
     },
-     {
+    {
       title: "Mabo 1970",
       title1: "Back to Nature",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       image: "/assets/coverimage6.jpg",
     },
-     {
+    {
       title: "Mabo 1970",
       title1: "Sarti del Metallo",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       image: "/assets/coverimage5.jpg",
-   
     },
-      {
+    {
       title: "Innovative Surface",
       title1: "Cemento Contemporaneo",
-         title2: "Catalogo IS",
+      title2: "Catalogo IS",
       title3: "2020",
       description:
         "Elegante, materico, resistente e senza fughe, la finitura cementizia IS veste gli spazi creando la giusta cornice di ogni progetto.",
       image: "/assets/coverimage4.jpg",
     },
-     {
+    {
       title: "Gentilin",
       title1: "Design Takeaway",
       description:
         "Design e grande distribuzione si incontrano in una collezione di prodotti che mixano irriverenza, rigore formale e tecniche produttive.",
       image: "/assets/coverimage3.jpg",
     },
-        {
+    {
       title: "G.M.P.",
       title1: "Architectural Firm",
       description:
         "Un nuovo alfabeto progettuale nel mondo dell'arredobagno per una lettura contemporanea di come viviamo e pensiamo lo spazio dedicato a noi stessi.",
       image: "/assets/coverimage2.jpg",
     },
-     {
+    {
       title: "Plebani",
       title1: "Made in Kitchen",
       description:
         "Procursori della lavorazione del metallo secondi i canoni del design contemporaneo. Mabol1970 realizza opere d'architettura in tutto il mondo.",
       image: "/assets/coverimage1.jpg",
-    },  
+    },
   ];
 
   const CustomModel = () => (
@@ -123,6 +123,13 @@ export default function Slider() {
               {modelData[modelNum].description}
             </p>
           </div>
+          {modelData[modelNum].title === "Innovative Surface" && (
+            <div className="slider-catalogo">
+              <h3>Catalogo IS</h3>
+              <h5>2020</h5>
+              <CustomInnovativeSlider />
+            </div>
+          )}
         </div>
       </div>
     </Modal>

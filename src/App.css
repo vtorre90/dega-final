@@ -301,7 +301,7 @@ h3 {
   margin-bottom: 16px;
 }
 
-.lavandino{
+.lavandino {
   border-radius: 30px;
 }
 
@@ -505,8 +505,8 @@ h3 {
   width: 100% !important;
   height: 100vh !important;
   max-height: 80vh;
-  object-fit: contain;
-  /* object-fit: cover; */
+  /* object-fit: contain; */
+  object-fit: cover;
 }
 
 .model-body > div {
@@ -515,6 +515,27 @@ h3 {
 
 .model-body > div > h5 {
   color: gray;
+}
+
+.innovativeSlider {
+  font-family: "Oswald";
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.innovativeSlider .rec-arrow {
+  display: none;
+}
+
+.slider-catalogo h3 {
+  font-family: "Oswald";
+}
+
+.slider-catalogo h5 {
+  font-family: "Oswald";
+  color: black !important;
+  padding-bottom: 20px;
 }
 
 .contactReferences {

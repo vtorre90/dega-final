@@ -7,12 +7,18 @@ import Breadcrumb from "./Breadcrumb";
 function Convertemplatecontact() {
   return (
     <div className="cover-template-slider -mt-5" id="contact">
-      <div className="text-main line-height-sm">
-      </div>
+      <div className="text-main line-height-sm"></div>
       <div className="dots-main">
-        <img className="dots" src="assets/instagram_trasparent.png" alt="" />
-        <img className="dots" src="assets/phone-call-icon.png" alt="" />
-        <img className="dots" src="assets/mail.png" alt="" />
+        <a href="https://www.instagram.com/enricodeganello/" target="_blank">
+          <img className="dots" src="assets/instagram_trasparent.png" alt="" />
+        </a>
+        <a href="tel:00393470123634" target="_blank">
+          <img className="dots" src="assets/phone-call-icon.png" alt="" />
+        </a>
+        <a href="mailto:dega@hotmail.it" target="_blank">
+          {" "}
+          <img className="dots" src="assets/mail.png" alt="" />
+        </a>
       </div>
       <div className="d-flex flex-column text-main mt-5 line-height-sm">
         <span className="subtitle">Sede operativa</span>
