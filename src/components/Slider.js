@@ -134,7 +134,7 @@ export default function Slider() {
         className="mb-3"
       />
           <img
-        src={process.env.PUBLIC_URL + "/inn_01.jpg"}
+        src={process.env.PUBLIC_URL + "/inn01.jpg"}
         id="picdesigner"
         className="mb-3"
       />
