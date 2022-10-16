@@ -117,8 +117,8 @@ export default function Slider() {
             className="model-img"
           />
           <div>
-            <h3>{modelData[modelNum].title}</h3>
-            <h5>{modelData[modelNum].title1}</h5>
+            <h3 className="title-catalogo">{modelData[modelNum].title}</h3>
+            <h5 className="subtitle-catalogo">{modelData[modelNum].title1}</h5>
             <p style={{ fontSize: "20px" }}>
               {modelData[modelNum].description}
             </p>
