@@ -125,8 +125,8 @@ export default function Slider() {
           </div>
           {modelData[modelNum].title === "Innovative Surface" && (
             <div className="slider-catalogo">
-              <h3>Catalogo IS</h3>
-              <h5>2020</h5>
+              <h4>Catalogo IS</h4>
+              <h6>2020</h6>
               {/* <CustomInnovativeSlider /> */}
               <img src="/assets/inn_02.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/inn_03.jpg" id="picdesignercard" className="mb-3" />
