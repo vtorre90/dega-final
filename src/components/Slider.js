@@ -128,15 +128,15 @@ export default function Slider() {
               <h3>Catalogo IS</h3>
               <h5>2020</h5>
               {/* <CustomInnovativeSlider /> */}
-              <img src="/assets/inn_02.jpg" id="picdesigner" className="mb-3" />
-              <img src="/assets/inn_03.jpg" id="picdesigner" className="mb-3" />
-              <img src="/assets/inn_04.jpg" id="picdesigner" className="mb-3" />
-              <img src="/assets/inn_05.jpg" id="picdesigner" className="mb-3" />
-              <img src="/assets/inn_06.jpg" id="picdesigner" className="mb-3" />
-              <img src="/assets/inn_07.jpg" id="picdesigner" className="mb-3" />
-              <img src="/assets/inn_08.jpg" id="picdesigner" className="mb-3" />
-              <img src="/assets/inn_09.jpg" id="picdesigner" className="mb-3" />
-              <img src="/assets/inn_10.jpg" id="picdesigner" className="mb-3" />
+              <img src="/assets/inn_02.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_03.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_04.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_05.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_06.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_07.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_08.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_09.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_10.jpg" id="picdesignercard" className="mb-3" />
             </div>
           )}
         </div>
