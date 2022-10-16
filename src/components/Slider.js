@@ -133,6 +133,51 @@ export default function Slider() {
         id="picdesigner"
         className="mb-3"
       />
+          <img
+        src={process.env.PUBLIC_URL + "/inn_02.jpg"}
+        id="picdesigner"
+        className="mb-3"
+      />
+          <img
+        src={process.env.PUBLIC_URL + "/inn_03.jpg"}
+        id="picdesigner"
+        className="mb-3"
+      />
+          <img
+        src={process.env.PUBLIC_URL + "/inn_04.jpg"}
+        id="picdesigner"
+        className="mb-3"
+      />
+          <img
+        src={process.env.PUBLIC_URL + "/inn_05.jpg"}
+        id="picdesigner"
+        className="mb-3"
+      />
+          <img
+        src={process.env.PUBLIC_URL + "/inn_06.jpg"}
+        id="picdesigner"
+        className="mb-3"
+      />
+          <img
+        src={process.env.PUBLIC_URL + "/inn_07.jpg"}
+        id="picdesigner"
+        className="mb-3"
+      />
+          <img
+        src={process.env.PUBLIC_URL + "/inn_08.jpg"}
+        id="picdesigner"
+        className="mb-3"
+      />
+          <img
+        src={process.env.PUBLIC_URL + "/inn_09.jpg"}
+        id="picdesigner"
+        className="mb-3"
+      />
+          <img
+        src={process.env.PUBLIC_URL + "/inn_10.jpg"}
+        id="picdesigner"
+        className="mb-3"
+      />
             </div>
           )}
         </div>
