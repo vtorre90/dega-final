@@ -532,11 +532,11 @@ h3 {
   display: none;
 }
 
-.slider-catalogo h3 {
+.slider-catalogo h4 {
   font-family: "Oswald";
 }
 
-.slider-catalogo h5 {
+.slider-catalogo h6 {
   font-family: "Oswald";
   color: black !important;
   padding-bottom: 20px;
