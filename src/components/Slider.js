@@ -129,12 +129,12 @@ export default function Slider() {
               <h5>2020</h5>
               <CustomInnovativeSlider />
             <img
-        src={process.env.PUBLIC_URL + "/picdesigner.jpg"}
+        src={process.env.PUBLIC_URL + "/inno01.jpg"}
         id="picdesigner"
         className="mb-3"
       />
           <img
-        src={process.env.PUBLIC_URL + "/inn01.jpg"}
+        src={process.env.PUBLIC_URL + "/picdesigner.jpg"}
         id="picdesigner"
         className="mb-3"
       />
