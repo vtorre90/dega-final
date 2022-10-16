@@ -165,7 +165,7 @@ export default function Slider() {
                <img src="/assets/inn_34.jpg" id="picdesignercard" className="mb-3" />
                <h4 className="mt-4 mb-2">LOGO IS</h4>
                <img src="/assets/inn_35.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_36.jpg" id="picdesignercard" className="mb-3" />
+               <img src="/assets/inn_36_light.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_37.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_38.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_39.jpg" id="picdesignercard" className="mb-3" />
