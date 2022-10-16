@@ -255,6 +255,10 @@ h3 {
   border-radius: 27px;
 }
 
+#picdesignercard {
+  width: 100%;
+}
+
 .contactCont__content {
   font-weight: 100;
   color: #383838;
