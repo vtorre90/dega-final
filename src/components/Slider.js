@@ -137,6 +137,27 @@ export default function Slider() {
               <img src="/assets/inn_08.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/inn_09.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/inn_10.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_11.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_12.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_13.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_14.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_15.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_16.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_17.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_18.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_19.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_20.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_21.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_22.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_23.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_24.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_25.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_26.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_27.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_28.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_29.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_30.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/inn_31.jpg" id="picdesignercard" className="mb-3" />
             </div>
           )}
         </div>
