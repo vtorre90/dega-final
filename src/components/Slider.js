@@ -162,7 +162,16 @@ export default function Slider() {
               <img src="/assets/inn_33.jpg" id="picdesignercard" className="mb-3" />
                 
                <h4 className="mt-5" >POSTCARDS ADV IS</h4>
-\\\\\\\\\\\\\\<img src="/assets/inn_34.jpg" id="picdesignercard" className="mb-3" />
+               <img src="/assets/inn_34.jpg" id="picdesignercard" className="mb-3" />
+               <h4 className="mt-5">LOGO IS</h4>
+               <img src="/assets/inn_35.jpg" id="picdesignercard" className="mb-3" />
+               <img src="/assets/inn_36.jpg" id="picdesignercard" className="mb-3" />
+               <img src="/assets/inn_37.jpg" id="picdesignercard" className="mb-3" />
+               <img src="/assets/inn_38.jpg" id="picdesignercard" className="mb-3" />
+               <img src="/assets/inn_39.jpg" id="picdesignercard" className="mb-3" />
+               <img src="/assets/inn_40.jpg" id="picdesignercard" className="mb-3" />
+               <img src="/assets/inn_41.jpg" id="picdesignercard" className="mb-3" />
+               <img src="/assets/inn_42.jpg" id="picdesignercard" className="mb-3" />
             </div>
           )}
         </div>
