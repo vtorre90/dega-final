@@ -544,7 +544,11 @@ h3 {
 
 .title-catalogo {
    font-family: "Oswald";
-    color: black !important;
+   color: black !important;
+}
+
+.subtitle-catalogo {
+  font-family: "Oswald";
 }
 
 .contactReferences {
