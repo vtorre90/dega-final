@@ -128,7 +128,7 @@ export default function Slider() {
               <h3>Catalogo IS</h3>
               <h5>2020</h5>
               {/* <CustomInnovativeSlider /> */}
-              <img src="/assets/inn_02.jpg" id="picdesigner" className="mb-3" />
+              <img src="/assets/inn_02.jpg" className="mb-3" />
               <img src="/assets/inn_03.jpg" id="picdesigner" className="mb-3" />
               <img src="/assets/inn_04.jpg" id="picdesigner" className="mb-3" />
               <img src="/assets/inn_05.jpg" id="picdesigner" className="mb-3" />
