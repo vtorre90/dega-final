@@ -126,7 +126,7 @@ export default function Slider() {
           {modelData[modelNum].title === "Innovative Surface" && (
             <div className="slider-catalogo">
               <h4>Catalogo IS</h4>
-              <h6>2020 test</h6>
+              <h6>2020</h6>
               {/* <CustomInnovativeSlider/> */}
               <img src="/assets/inn_02.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/inn_03.jpg" id="picdesignercard" className="mb-3" />
@@ -158,6 +158,8 @@ export default function Slider() {
               <img src="/assets/inn_29.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/inn_30.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/inn_31.jpg" id="picdesignercard" className="mb-3" />
+                
+               <h4 className="mt-4" >POSTCARDS ADV IS</h4>
             </div>
           )}
         </div>
