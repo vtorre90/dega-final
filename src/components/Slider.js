@@ -119,7 +119,7 @@ export default function Slider() {
           <div>
             <h3 className="card-category-int mt-3">{modelData[modelNum].title}</h3>
             <h5 className="card-title-int">{modelData[modelNum].title1}</h5>
-            <p style={{ fontSize: "20px" }}>
+            <p style={{ fontSize: "20px" }} className="card-boby-int">
               {modelData[modelNum].description}
             </p>
           </div>
@@ -160,7 +160,6 @@ export default function Slider() {
               <img src="/assets/inn_31.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/inn_32.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/inn_33.jpg" id="picdesignercard" className="mb-3" />
-                
                <h4 className="mt-4 mb-3" >POSTCARDS ADV IS</h4>
                <img src="/assets/inn_34.jpg" id="picdesignercard" className="mb-3" />
                <h4 className="mt-4 mb-3">LOGO IS</h4>
