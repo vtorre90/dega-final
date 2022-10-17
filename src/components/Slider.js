@@ -67,8 +67,9 @@ export default function Slider() {
     {
       title: "Gentilin",
       title1: "Design Takeaway",
+       title3: "2018",
       description:
-        "Design e grande distribuzione si incontrano in una collezione di prodotti che mixano irriverenza, rigore formale e tecniche produttive.",
+        "Design e grande distribuzione si incontrano in una collezione di prodotti che mixano irriverenza, rigore formale e tecniche produttive. Uno sviluppo di progetto organico che ha riguardato tutta la filiera dalla produzione alla commercializzazione. Gentilin è il nuovo brand creato dalla I.M.T. , storica industria vicentina di produzione di arredi in metallo polifunzionali.",
       image: "/assets/cover_gentilin_new.jpg",
     },
     {
