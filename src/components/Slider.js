@@ -96,7 +96,7 @@ export default function Slider() {
           style={{
             position: "absolute",
             top: 10,
-            right: 10,
+            right: 25,
             zIndex: "9999",
             color: "#000",
             background: "#f0f0f0",
