@@ -405,6 +405,8 @@ h3 {
 .home-page {
   width: 100vw;
   position: relative;
+  max-width: 600px;
+  margin: 0 auto;
 }
 
 .slider {
