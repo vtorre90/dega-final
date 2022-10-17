@@ -465,6 +465,12 @@ h3 {
   color: #000000 !important;
 }
 
+.card-body-int{
+font-family: "Oswald";
+  font-size: 24px;
+    font-weight: 400;
+}
+
 .card-category-int {
   font-size: 24px;
   font-family: "Oswald";
@@ -531,10 +537,6 @@ h3 {
 .model-body > div {
   padding-right: 1.4rem;
   padding-left: 1rem;
-}
-
-.model-body > div > h5 {
-  color: gray;
 }
 
 .innovativeSlider {
