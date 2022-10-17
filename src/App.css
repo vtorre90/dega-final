@@ -242,7 +242,7 @@ h3 {
     url("./assets/home.jpg");
   background-position: center;
   background-size: cover;
-  overflow-x: hidden;
+  overflow: hidden;
   display: flex;
   flex-direction: column;
   align-items: center;
