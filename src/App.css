@@ -523,7 +523,7 @@ font-family: "Oswald";
 .model-body {
   position: absolute;
   top: 0;
-  left: 0;
+  left: 25%;
   overflow-y: scroll;
   height: 100%;
   max-width: 600px;
