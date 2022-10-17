@@ -223,16 +223,16 @@ export default function Slider() {
           {modelData[modelNum].title === "Plebani" && (
             <div className="slider-catalogo">
               {/* <CustomInnovativeSlider/> */}
-              <img src="/assets/plebani_1_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
-          <img src="/assets/plebani_2_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
-             <img src="/assets/plebani_3_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
-          <img src="/assets/plebani_4_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
-             <img src="/assets/plebani_5_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
-          <img src="/assets/plebani_6_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
-             <img src="/assets/plebani_7_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
-          <img src="/assets/plebani_8_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
-             <img src="/assets/plebani_9_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
-          <img src="/assets/plebani_10_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/plebani 1_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/plebani 2_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
+             <img src="/assets/plebani 3_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/plebani 4_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
+             <img src="/assets/plebani 5_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/plebani 6_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
+             <img src="/assets/plebani 7_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/plebani 8_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
+             <img src="/assets/plebani 9_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/plebani 10_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
             </div>
 
           )}
