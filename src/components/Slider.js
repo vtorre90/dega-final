@@ -270,6 +270,8 @@ export default function Slider() {
               >
                 <div class="card-category mt-5">{data.title}</div>
                 <div class="card-title mt-2">{data.title1}</div>
+                <div class="card-category mt-5">{data.title2}</div>
+               
                 {/* <div class="card-body ps-5 pe-5 pt-3">{data.description}</div> */}
               </div>
             </Item>
