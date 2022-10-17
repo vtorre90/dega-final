@@ -81,8 +81,9 @@ export default function Slider() {
     {
       title: "Plebani",
       title1: "Made in Kitchen",
+      title3: "2017",
       description:
-        "Procursori della lavorazione del metallo secondi i canoni del design contemporaneo. Mabol1970 realizza opere d'architettura in tutto il mondo.",
+        "La collezione di cucine ABACO è stata studiata per adattarsi ad ogni esigenza di spazio garantendo configurazioni infinite e materiali contemporanei per soddisfare le necessità di stile richieste da architetti e professionisti dell’interior design.",
       image: "/assets/plebani_card_cover.jpg",
     },
   ];
@@ -220,8 +221,6 @@ export default function Slider() {
           
           {modelData[modelNum].title === "Plebani" && (
             <div className="slider-catalogo">
-              <h4>Catalogo IS</h4>
-              <h6>2020</h6>
               {/* <CustomInnovativeSlider/> */}
               <img src="/assets/plebani_1_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
           <img src="/assets/plebani_2_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
