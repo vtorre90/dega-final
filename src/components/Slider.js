@@ -121,6 +121,7 @@ export default function Slider() {
           <div>
             <h3 className="card-category-int mt-3">{modelData[modelNum].title}</h3>
             <h5 className="card-title-int">{modelData[modelNum].title1}</h5>
+            <h6 className="card-title-int">{modelData[modelNum].title3}</h5>
             <p style={{ fontSize: "20px" }} className="card-boby-int">
               {modelData[modelNum].description}
             </p>
@@ -268,8 +269,7 @@ export default function Slider() {
               >
                 <div class="card-category mt-5">{data.title}</div>
                 <div class="card-title mt-2">{data.title1}</div>
-                <div class="card-category mt-5">{data.title2}</div>
-                <div class="card-category mt-5">{data.title3}</div>
+            
                
                 {/* <div class="card-body ps-5 pe-5 pt-3">{data.description}</div> */}
               </div>
