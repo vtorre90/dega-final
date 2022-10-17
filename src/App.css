@@ -450,10 +450,13 @@ h3 {
 .card-title {
   font-size: 28px;
   font-weight: 600;
+  font-family: "Oswald";
+  color: #000000;
 }
 
 .card-category {
   font-size: 24px;
+  font-family: "Oswald";
 }
 
 .card-body {
