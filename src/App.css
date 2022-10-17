@@ -451,10 +451,21 @@ h3 {
   font-size: 28px;
   font-weight: 600;
   font-family: "Oswald";
-  color: #000000;
 }
 
 .card-category {
+  font-size: 24px;
+  font-family: "Oswald";
+}
+
+.card-title-int {
+  font-size: 28px;
+  font-weight: 600;
+  font-family: "Oswald";
+  color: #000000;
+}
+
+.card-category-int {
   font-size: 24px;
   font-family: "Oswald";
 }
