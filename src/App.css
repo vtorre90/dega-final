@@ -585,3 +585,7 @@ h3 {
     max-height: 70vh;
   }
 }
+
+.MuiButtonBase-root .MuiIconButton-root .MuiIconButton-sizeMedium .model-close .css-1yxmbwk{
+  right: 25px !important;
+}
