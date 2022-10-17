@@ -208,8 +208,6 @@ export default function Slider() {
           
           {modelData[modelNum].title === "Gentilin" && (
             <div className="slider-catalogo">
-              <h4>Catalogo IS</h4>
-              <h6>2020</h6>
               {/* <CustomInnovativeSlider/> */}
               <img src="/assets/gentilin_1.jpg" id="picdesignercard" className="mb-3" />
           <img src="/assets/gentilin_2.jpg" id="picdesignercard" className="mb-3" />
