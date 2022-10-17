@@ -526,6 +526,8 @@ font-family: "Oswald";
   left: 0;
   overflow-y: scroll;
   height: 100%;
+  max-width: 600px;
+  margin: 0 auto;
 }
 
 .model-img {
