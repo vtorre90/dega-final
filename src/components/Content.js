@@ -12,7 +12,7 @@ function Content() {
         AZIENDALE
       </h1>
       <p className="homePage__content">
-        I nostro lavoro consiste nel curare la direzione artistica e creativa di
+        Il nostro lavoro consiste nel curare la direzione artistica e creativa di
         aziende che interagiscono con il mondo del design e dell’architettura
         costruendo un dna identitario e sartoriale dal tratto contemporaneo per
         una evoluzione del valore nel settore di riferimento.
