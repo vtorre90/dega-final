@@ -70,7 +70,7 @@ h3 {
 
 .App {
   text-align: center;
-  background-color: pink;
+  background-color: #000000;
   overflow: hidden !important;
   /* height: 100vh; */
   height: fit-content !important;
