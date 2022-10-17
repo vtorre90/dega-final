@@ -522,7 +522,7 @@ font-family: "Oswald";
 
 .model-body {
   position: absolute;
-  top: 0;
+  top: 25%;
   left: 25%;
   overflow-y: scroll;
   height: 100%;
