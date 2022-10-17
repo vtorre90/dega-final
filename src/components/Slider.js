@@ -69,7 +69,7 @@ export default function Slider() {
       title1: "Design Takeaway",
       description:
         "Design e grande distribuzione si incontrano in una collezione di prodotti che mixano irriverenza, rigore formale e tecniche produttive.",
-      image: "/assets/coverimage3.jpg",
+      image: "/assets/cover_gentilin_new.jpg",
     },
     {
       title: "G.M.P.",
