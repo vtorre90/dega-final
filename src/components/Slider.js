@@ -83,7 +83,7 @@ export default function Slider() {
       title1: "Made in Kitchen",
       description:
         "Procursori della lavorazione del metallo secondi i canoni del design contemporaneo. Mabol1970 realizza opere d'architettura in tutto il mondo.",
-      image: "/assets/coverimage1.jpg",
+      image: "/assets/plebani_card_cover.jpg",
     },
   ];
 
@@ -216,6 +216,27 @@ export default function Slider() {
             </div>
 
           )}
+          
+          
+          {modelData[modelNum].title === "Plebani" && (
+            <div className="slider-catalogo">
+              <h4>Catalogo IS</h4>
+              <h6>2020</h6>
+              {/* <CustomInnovativeSlider/> */}
+              <img src="/assets/plebani_1.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/plebani_2.jpg" id="picdesignercard" className="mb-3" />
+             <img src="/assets/plebani_3.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/plebani_4.jpg" id="picdesignercard" className="mb-3" />
+             <img src="/assets/plebani_5.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/plebani_6.jpg" id="picdesignercard" className="mb-3" />
+             <img src="/assets/plebani_7.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/plebani_8.jpg" id="picdesignercard" className="mb-3" />
+             <img src="/assets/plebani_9.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/plebani_10.jpg" id="picdesignercard" className="mb-3" />
+            </div>
+
+          )}
+          
           
           
           
