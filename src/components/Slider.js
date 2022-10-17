@@ -209,78 +209,10 @@ export default function Slider() {
               <h4>Catalogo IS</h4>
               <h6>2020</h6>
               {/* <CustomInnovativeSlider/> */}
-              <img src="/assets/inn_02.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_03.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_04.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_05.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_06.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_07.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_08.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_09.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_10.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_11.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_12.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_13.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_14.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_15.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_16.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_17.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_18.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_19.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_20.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_21.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_22.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_23.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_24.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_25.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_26.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_27.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_28.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_29.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_30.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_31.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_32.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/inn_33.jpg" id="picdesignercard" className="mb-3" />
-               <h4 className="mt-4 mb-3" >POSTCARDS ADV IS</h4>
-               <img src="/assets/inn_34.jpg" id="picdesignercard" className="mb-3" />
-               <h4 className="mt-4 mb-3">LOGO IS</h4>
-               <img src="/assets/inn_35_light.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_36_light.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_37.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_38.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_39.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_40.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_41.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_42.jpg" id="picdesignercard" className="mb-3" />
-               <h4 className="mt-4 mb-3">SHADE</h4>
-               <h6>Table / wood / concrete finishing</h6>
-               <img src="/assets/inn_43.jpg" id="picdesignercard" className="mb-3"/>
-               <img src="/assets/inn_44.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_45.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_46.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_47.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_48.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_49.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_50.jpg" id="picdesignercard" className="mb-3" />
-                 <h4 className="mt-4 mb-3"> CATALOGO INNOVATIVE</h4>
-               <h6>2016</h6>
-                <img src="/assets/inn_51.jpg" id="picdesignercard" className="mb-3"/>
-               <img src="/assets/inn_52.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_53.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_54.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_55.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_56.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_57.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_58.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_59.jpg" id="picdesignercard" className="mb-3" />
-               <h4 className="mt-4 mb-3">ADV INNOVATIVE</h4>
-               <img src="/assets/inn_60.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_61.jpg" id="picdesignercard" className="mb-3" />
-               <h4 className="mt-4 mb-3">WEB INNOVATIVE</h4>
-               <img src="/assets/inn_63.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_64.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_65.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_66.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/gentilin_1.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/gentilin_2.jpg" id="picdesignercard" className="mb-3" />
+             <img src="/assets/gentilin_3.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/gentilin_4.jpg" id="picdesignercard" className="mb-3" />
             </div>
 
           )}
