@@ -10,11 +10,7 @@ function ContactPageComp() {
   };
   return (
     <div className="contact-page-comp" id="contacts">
-      <div className="contact-text line-height-lg">
-        Tutte le linee
-        <br /> iniziano da un
-        <br /> punto
-      </div>
+     
       <div className="dots-main">
         <a href="https://www.instagram.com/enricodeganello/" target="_blank">
           <img className="dots" src="assets/instagram_trasparent.png" alt="" />
