@@ -12,9 +12,7 @@ body {
   line-height: 2rem;
 }
 
-font-fam h4, font-fam h6, font-fam{
-  font-family: "Oswald";
-}
+
 
 /* smooth scroll */
 html {
@@ -614,4 +612,8 @@ font-family: "Oswald";
 
 .MuiButtonBase-root .MuiIconButton-root .MuiIconButton-sizeMedium .model-close .css-1yxmbwk{
   right: 25px !important;
+}
+
+font-fam h4, font-fam h6, font-fam{
+  font-family: "Oswald";
 }
