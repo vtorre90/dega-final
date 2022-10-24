@@ -12,10 +12,16 @@ body {
   line-height: 2rem;
 }
 
+font-fam{
+  font-family: "Oswald";
+}
+
 /* smooth scroll */
 html {
   scroll-behavior: smooth;
 }
+
+
 
 /* hide scrollbar */
 /* ::-webkit-scrollbar {
