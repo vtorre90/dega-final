@@ -204,7 +204,7 @@ export default function Slider() {
                <img src="/assets/inn_64.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_65.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_66.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_67.jpg" id="picdesignercard" className="mb-3" />
+               <img src="/assets/inn_67.jpg" id="picdesignercard" className="mb-5" />
             </div>
 
           )}
@@ -215,7 +215,7 @@ export default function Slider() {
               <img src="/assets/gentilin_1.jpg" id="picdesignercard" className="mb-3" />
           <img src="/assets/gentilin_2.jpg" id="picdesignercard" className="mb-3" />
              <img src="/assets/gentilin_3.jpg" id="picdesignercard" className="mb-3" />
-          <img src="/assets/gentilin_4.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/gentilin_4.jpg" id="picdesignercard" className="mb-5" />
             </div>
 
           )}
@@ -233,7 +233,7 @@ export default function Slider() {
              <img src="/assets/plebani 7_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
           <img src="/assets/plebani 8_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
              <img src="/assets/plebani 9_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
-          <img src="/assets/plebani 10_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/plebani 10_enrico_deganello_art director.jpg" id="picdesignercard" className="mb-5" />
             </div>
 
           )}
@@ -251,7 +251,7 @@ export default function Slider() {
           <img src="/assets/prandina_8.jpg" id="picdesignercard" className="mb-3" />
              <img src="/assets/prandina_9.jpg" id="picdesignercard" className="mb-3" />
           <img src="/assets/prandina_10.jpg" id="picdesignercard" className="mb-3" />
-            <img src="/assets/prandina_11.jpg" id="picdesignercard" className="mb-3" />
+            <img src="/assets/prandina_11.jpg" id="picdesignercard" className="mb-5" />
             </div>
           )}        
         </div>
