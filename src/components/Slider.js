@@ -211,6 +211,7 @@ export default function Slider() {
                <img src="/assets/inn_64.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_65.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_66.jpg" id="picdesignercard" className="mb-3" />
+               <img src="/assets/inn_67.jpg" id="picdesignercard" className="mb-3" />
             </div>
 
           )}
