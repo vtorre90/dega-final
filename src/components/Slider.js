@@ -75,13 +75,6 @@ export default function Slider() {
       title: "G.M.P.",
       title1: "Architectural Firm",
       description:
-        "Un nuovo alfabeto progettuale nel mondo dell'arredobagno per una lettura contemporanea di come viviamo e pensiamo lo spazio dedicato a noi stessi.",
-      image: "/assets/coverimage2.jpg",
-    },
-    {
-      title: "Prandina",
-      title1: "Testo",
-      description:
         "Testo",
       image: "/assets/prandina_card_new.jpg",
     },
