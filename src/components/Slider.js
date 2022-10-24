@@ -74,8 +74,11 @@ export default function Slider() {
     {
       title: "G.M.P.",
       title1: "Architectural Firm",
+      title3: "2016",
       description:
-        "Testo",
+        "La direzione artistica dello studio Gian Mario Prandina ha coinvolto diversi professionisti per creare una immagine distintiva  dove eleganza progettuale e competenza tecnica convivono in armonia per garantire al cliente una certezza di risulato, estetico e tecnico.
+
+",
       image: "/assets/prandina_card_new.jpg",
     },
     {
