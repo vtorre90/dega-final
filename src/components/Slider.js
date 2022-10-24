@@ -244,7 +244,7 @@ export default function Slider() {
           )}
           
           
-              {modelData[modelNum].title === "Plebani" && (
+              {modelData[modelNum].title === "Prandina" && (
             <div className="slider-catalogo">
               {/* <CustomInnovativeSlider/> */}
               <img src="/assets/prandina_1.jpg" id="picdesignercard" className="mb-3" />
