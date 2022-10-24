@@ -8,7 +8,7 @@ const ContactReferencesCont = () => {
         id="picdesigner"
         className="mb-3 lavandino"
       />
-      <h4>Attivita</h4>
+      <h4>Attività</h4>
       <p className="pt-2 contactPage__activites">
         corporate identity
         <br />
