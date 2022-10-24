@@ -120,7 +120,7 @@ export default function Slider() {
           <div>
             <h3 className="card-category-int mt-3">{modelData[modelNum].title}</h3>
             <h5 className="card-title-int">{modelData[modelNum].title1}</h5>
-            <h5 className="card-category-int">{modelData[modelNum].title3}</h5>
+            <h6 className="card-category-int">{modelData[modelNum].title3}</h6>
             <p style={{ fontSize: "20px" }} className="card-boby-int">
               {modelData[modelNum].description}
             </p>
@@ -238,8 +238,7 @@ export default function Slider() {
 
           )}
           
-          
-              {modelData[modelNum].title === "Prandina" && (
+              {modelData[modelNum].title === "G.M.P." && (
             <div className="slider-catalogo">
               {/* <CustomInnovativeSlider/> */}
               <img src="/assets/prandina_1.jpg" id="picdesignercard" className="mb-3" />
@@ -254,12 +253,7 @@ export default function Slider() {
           <img src="/assets/prandina_10.jpg" id="picdesignercard" className="mb-3" />
             <img src="/assets/prandina_11.jpg" id="picdesignercard" className="mb-3" />
             </div>
-
-          )}
-          
-          
-          
-          
+          )}        
         </div>
       </div>
     </Modal>
