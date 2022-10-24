@@ -59,7 +59,6 @@ export default function Slider() {
       title: "Innovative Surface",
       title1: "Cemento Contemporaneo",
       title2: "Catalogo IS",
-      title3: "2020",
       description:
         "Elegante, materico, resistente e senza fughe, la finitura cementizia IS veste gli spazi creando la giusta cornice di ogni progetto.",
       image: "/assets/cover_innovative.jpg",
