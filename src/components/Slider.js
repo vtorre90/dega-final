@@ -126,7 +126,7 @@ export default function Slider() {
             </p>
           </div>
           {modelData[modelNum].title === "Innovative Surface" && (
-            <div className="">
+            <div className="font-fam">
               <h4>CATALOGO IS</h4>
               <h6>2020</h6>
               {/* <CustomInnovativeSlider/> */}
@@ -163,9 +163,9 @@ export default function Slider() {
               <img src="/assets/inn_31.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/inn_32.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/inn_33.jpg" id="picdesignercard" className="mb-3" />
-               <h4 className="mt-4 mb-3" >POSTCARDS ADV IS</h4>
+               <h4 className="mt-4 mb-3 font-fam">POSTCARDS ADV IS</h4>
                <img src="/assets/inn_34.jpg" id="picdesignercard" className="mb-3" />
-               <h4 className="mt-4 mb-3">LOGO IS</h4>
+               <h4 className="mt-4 mb-3 font-fam">LOGO IS</h4>
                <img src="/assets/inn_35_light.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_36_light.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_37.jpg" id="picdesignercard" className="mb-3" />
@@ -174,8 +174,8 @@ export default function Slider() {
                <img src="/assets/inn_40.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_41.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_42.jpg" id="picdesignercard" className="mb-3" />
-               <h4 className="mt-4">SHADE</h4>
-               <h6>Table / wood / concrete finishing</h6>
+               <h4 className="mt-4 font-fam">SHADE</h4>
+               <h6 className="font-fam">Table / wood / concrete finishing</h6>
                <img src="/assets/inn_43.jpg" id="picdesignercard" className="mb-3"/>
                <img src="/assets/inn_44.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_45.jpg" id="picdesignercard" className="mb-3" />
@@ -184,8 +184,8 @@ export default function Slider() {
                <img src="/assets/inn_48.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_49.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_50.jpg" id="picdesignercard" className="mb-3" />
-                 <h4 className="mt-4"> CATALOGO INNOVATIVE</h4>
-               <h6>2016</h6>
+                 <h4 className="mt-4 font-fam">CATALOGO INNOVATIVE</h4>
+               <h6 className="font-fam">2016</h6>
                 <img src="/assets/inn_51.jpg" id="picdesignercard" className="mb-3"/>
                <img src="/assets/inn_52.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_53.jpg" id="picdesignercard" className="mb-3" />
@@ -195,11 +195,11 @@ export default function Slider() {
                <img src="/assets/inn_57.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_58.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_59.jpg" id="picdesignercard" className="mb-3" />
-                 <img src="/assets/inn_60.jpg" id="picdesignercard" className="mb-3" />
-               <h4 className="mt-4 mb-3">ADV INNOVATIVE</h4>
+               <img src="/assets/inn_60.jpg" id="picdesignercard" className="mb-3" />
+               <h4 className="mt-4 mb-3 font-fam">ADV INNOVATIVE</h4>
                <img src="/assets/inn_61.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_62.jpg" id="picdesignercard" className="mb-3" />
-               <h4 className="mt-4 mb-3">WEB INNOVATIVE</h4>
+               <h4 className="mt-4 mb-3 font-fam">WEB INNOVATIVE</h4>
                <img src="/assets/inn_63.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_64.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_65.jpg" id="picdesignercard" className="mb-3" />
