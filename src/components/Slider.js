@@ -80,6 +80,13 @@ export default function Slider() {
       image: "/assets/coverimage2.jpg",
     },
     {
+      title: "Gianmario Prandina",
+      title1: "Testo",
+      description:
+        "Testo",
+      image: "/assets/prandina_card_new.jpg",
+    },
+    {
       title: "Plebani",
       title1: "Made in Kitchen",
       title3: "2017",
