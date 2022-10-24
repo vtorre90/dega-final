@@ -12,7 +12,13 @@ body {
   line-height: 2rem;
 }
 
+h5, h6{
+  font-family: "Oswald" !important;
+}
 
+h5, h6{
+  font-family: "Oswald";
+}
 
 /* smooth scroll */
 html {
