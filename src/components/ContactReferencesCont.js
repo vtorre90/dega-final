@@ -16,7 +16,7 @@ const ContactReferencesCont = () => {
         <br />
         concept and product development
         <br />
-        design conusult
+        design consultant
         <br />
         graphic and web design
         <br />
