@@ -623,3 +623,7 @@ font-family: "Oswald";
 font-fam h4, font-fam h6, font-fam{
   font-family: "Oswald";
 }
+
+.card-anno-int{
+  font-size: 20px;
+}
