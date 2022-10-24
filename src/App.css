@@ -406,6 +406,7 @@ h3 {
   width: 100vw;
   position: relative;
   margin: 0 auto;
+  max-width:600px;
 }
 
 .slider {
@@ -521,8 +522,6 @@ font-family: "Oswald";
 
 .model-body {
   position: absolute;
-  top: 25%;
-  left: 25%;
   overflow-y: scroll;
   height: 100%;
   max-width: 600px;
