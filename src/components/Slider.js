@@ -244,16 +244,16 @@ export default function Slider() {
             <div className="slider-catalogo">
               {/* <CustomInnovativeSlider/> */}
               <img src="/assets/prandina_1.jpg" id="picdesignercard" className="mb-3" />
-          <img src="/assets/prandina_2.jpg" id="picdesignercard" className="mb-3" />
-             <img src="/assets/prandina_3.jpg" id="picdesignercard" className="mb-3" />
-          <img src="/assets/prandina_4.jpg" id="picdesignercard" className="mb-3" />
-             <img src="/assets/prandina_5.jpg" id="picdesignercard" className="mb-3" />
-          <img src="/assets/prandina_6.jpg" id="picdesignercard" className="mb-3" />
-             <img src="/assets/prandina_7.jpg" id="picdesignercard" className="mb-3" />
-          <img src="/assets/prandina_8.jpg" id="picdesignercard" className="mb-3" />
-             <img src="/assets/prandina_9.jpg" id="picdesignercard" className="mb-3" />
-          <img src="/assets/prandina_10.jpg" id="picdesignercard" className="mb-3" />
-            <img src="/assets/prandina_11.jpg" id="picdesignercard" className="mb-5" />
+              <img src="/assets/prandina_2.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/prandina_3.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/prandina_4.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/prandina_5.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/prandina_6.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/prandina_7.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/prandina_8.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/prandina_9.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/prandina_10.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/prandina_11.jpg" id="picdesignercard" className="mb-5" />
             </div>
           )}        
         </div>
