@@ -174,7 +174,7 @@ export default function Slider() {
                <img src="/assets/inn_40.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_41.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_42.jpg" id="picdesignercard" className="mb-3" />
-               <h4 className="mt-4 mb-3">SHADE</h4>
+               <h4 className="mt-4">SHADE</h4>
                <h6>Table / wood / concrete finishing</h6>
                <img src="/assets/inn_43.jpg" id="picdesignercard" className="mb-3"/>
                <img src="/assets/inn_44.jpg" id="picdesignercard" className="mb-3" />
@@ -184,7 +184,7 @@ export default function Slider() {
                <img src="/assets/inn_48.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_49.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_50.jpg" id="picdesignercard" className="mb-3" />
-                 <h4 className="mt-4 mb-3"> CATALOGO INNOVATIVE</h4>
+                 <h4 className="mt-4"> CATALOGO INNOVATIVE</h4>
                <h6>2016</h6>
                 <img src="/assets/inn_51.jpg" id="picdesignercard" className="mb-3"/>
                <img src="/assets/inn_52.jpg" id="picdesignercard" className="mb-3" />
