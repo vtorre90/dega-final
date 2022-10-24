@@ -80,7 +80,7 @@ export default function Slider() {
       image: "/assets/coverimage2.jpg",
     },
     {
-      title: "Gianmario Prandina",
+      title: "Prandina",
       title1: "Testo",
       description:
         "Testo",
