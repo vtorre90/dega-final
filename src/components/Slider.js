@@ -93,7 +93,7 @@ export default function Slider() {
       title3: "Mood",
       description:
         "La collezione di cucine ABACO è stata studiata per adattarsi ad ogni esigenza di spazio garantendo configurazioni infinite e materiali contemporanei per soddisfare le necessità di stile richieste da architetti e professionisti dell’interior design.",
-      image: "/assets/card_cover_mood.jpg",
+      image: "/assets/cover_card_mood.jpg",
     },
   ];
 
@@ -273,7 +273,7 @@ export default function Slider() {
               <img src="/assets/6_ENRICO_DEGANELLO_MOOD_DESIGN_MAGAZIEN_ART_DIRECTION.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/7_ENRICO_DEGANELLO_MOOD_DESIGN_MAGAZIEN_ART_DIRECTION.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/8_ENRICO_DEGANELLO_MOOD_DESIGN_MAGAZIEN_ART_DIRECTION.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/9_ENRICO_DEGANELLO_MOOD_DESIGN_MAGAZIEN_ART_DIRECTION.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/9_ENRICO_DEGANELLO_MOOD_DESIGN_MAGAZIEN_ART_DIRECTION15.jpg" id="picdesignercard" className="mb-3" />
             </div>
           )}        
         </div>
