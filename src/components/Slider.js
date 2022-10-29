@@ -95,6 +95,14 @@ export default function Slider() {
         "La collezione di cucine ABACO è stata studiata per adattarsi ad ogni esigenza di spazio garantendo configurazioni infinite e materiali contemporanei per soddisfare le necessità di stile richieste da architetti e professionisti dell’interior design.",
       image: "/assets/cover_card_mood.jpg",
     },
+    {
+      title: "Mabele",
+      title1: "Mabele",
+      title3: "Mabele",
+      description:
+        "La collezione di cucine ABACO è stata studiata per adattarsi ad ogni esigenza di spazio garantendo configurazioni infinite e materiali contemporanei per soddisfare le necessità di stile richieste da architetti e professionisti dell’interior design.",
+      image: "/assets/cover_card_mabele.jpg",
+    },
   ];
 
   const CustomModel = () => (
