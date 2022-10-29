@@ -87,6 +87,14 @@ export default function Slider() {
         "La collezione di cucine ABACO è stata studiata per adattarsi ad ogni esigenza di spazio garantendo configurazioni infinite e materiali contemporanei per soddisfare le necessità di stile richieste da architetti e professionisti dell’interior design.",
       image: "/assets/plebani_card_cover.jpg",
     },
+    {
+      title: "Mood",
+      title1: "Mood",
+      title3: "Mood",
+      description:
+        "La collezione di cucine ABACO è stata studiata per adattarsi ad ogni esigenza di spazio garantendo configurazioni infinite e materiali contemporanei per soddisfare le necessità di stile richieste da architetti e professionisti dell’interior design.",
+      image: "/assets/plebani_card_cover.jpg",
+    },
   ];
 
   const CustomModel = () => (
@@ -239,7 +247,7 @@ export default function Slider() {
           )}
           
               {modelData[modelNum].title === "G.M.P." && (
-            <div className="slider-catalogo">
+              <div className="slider-catalogo">
               {/* <CustomInnovativeSlider/> */}
               <img src="/assets/prandina_1.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/prandina_2.jpg" id="picdesignercard" className="mb-3" />
@@ -252,6 +260,20 @@ export default function Slider() {
               <img src="/assets/prandina_9.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/prandina_10.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/prandina_11.jpg" id="picdesignercard" className="mb-5" />
+            </div>
+          )}
+          {modelData[modelNum].title === "Mood" && (
+              <div className="slider-catalogo">
+              {/* <CustomInnovativeSlider/> */}
+              <img src="/assets/1_ENRICO_DEGANELLO_MOOD_DESIGN_MAGAZIEN_ART_DIRECTION.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/2_ENRICO_DEGANELLO_MOOD_DESIGN_MAGAZIEN_ART_DIRECTION.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/3_ENRICO_DEGANELLO_MOOD_DESIGN_MAGAZIEN_ART_DIRECTION.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/4_ENRICO_DEGANELLO_MOOD_DESIGN_MAGAZIEN_ART_DIRECTION.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/5_ENRICO_DEGANELLO_MOOD_DESIGN_MAGAZIEN_ART_DIRECTION.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/6_ENRICO_DEGANELLO_MOOD_DESIGN_MAGAZIEN_ART_DIRECTION.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/7_ENRICO_DEGANELLO_MOOD_DESIGN_MAGAZIEN_ART_DIRECTION.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/8_ENRICO_DEGANELLO_MOOD_DESIGN_MAGAZIEN_ART_DIRECTION.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/9_ENRICO_DEGANELLO_MOOD_DESIGN_MAGAZIEN_ART_DIRECTION.jpg" id="picdesignercard" className="mb-3" />
             </div>
           )}        
         </div>
