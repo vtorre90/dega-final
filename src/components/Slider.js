@@ -93,7 +93,7 @@ export default function Slider() {
       title3: "Mood",
       description:
         "La collezione di cucine ABACO è stata studiata per adattarsi ad ogni esigenza di spazio garantendo configurazioni infinite e materiali contemporanei per soddisfare le necessità di stile richieste da architetti e professionisti dell’interior design.",
-      image: "/assets/plebani_card_cover.jpg",
+      image: "/assets/card_cover_mood.jpg",
     },
   ];
 
