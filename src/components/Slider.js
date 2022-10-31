@@ -288,9 +288,9 @@ export default function Slider() {
           {modelData[modelNum].title === "Mabele" && (
               <div className="slider-catalogo">
               {/* <CustomInnovativeSlider/> */}
-              <img src="/assets/1_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA" id="picdesignercard" className="mb-3" />
-              <img src="/assets/2_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA" id="picdesignercard" className="mb-3" />
-              <img src="/assets/3_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA" id="picdesignercard" className="mb-3" />
+              <img src="/assets/1_MABELE.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/2_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/3_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/4_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA" id="picdesignercard" className="mb-3" />
               <img src="/assets/5_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA" id="picdesignercard" className="mb-3" />
               <img src="/assets/6_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA" id="picdesignercard" className="mb-3" />
