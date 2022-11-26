@@ -273,7 +273,7 @@ export default function Slider() {
               <img src="/assets/149.1_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/150_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/151_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
-       
+       </div>
              
           )}
           
