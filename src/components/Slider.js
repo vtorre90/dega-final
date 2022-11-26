@@ -42,20 +42,25 @@ export default function Slider() {
         "Un nuovo alfabeto progettuale nel mondo dell’arredobagno per una lettura contemporanea di come viviamo e pensiamo lo spazio dedicato a noi stessi.",
       image: "/assets/coverimage7.jpg",
     },
-    {
-      title: "Mabo 1970",
-      title1: "Back to Nature",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      image: "/assets/coverimage6.jpg",
-    },
-    {
-      title: "Mabo 1970",
+    
+     {
+      title: "Mabele",
       title1: "Sarti del Metallo",
+      
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      image: "/assets/coverimage5.jpg",
+        "Precursori nella lavorazione del metallo secondo i canoni del design contemporaneo, Mabele by Mabo1970 realizza opere d’architettura in tutto il mondo partendo da Torino, la patria del metallo.",
+      image: "/assets/cover_card_mabele.jpg",
     },
+    
+     {
+      title: "Mood",
+      title1: "The Design Magazine",
+      title3: "Mood",
+      description:
+        "La prima rivista digitale mensile in lingua iraniana dedicata al mondo del design e dell’interior design. Un punto di riferimento per rimanere aggiornati sull’evoluzione della contemporaneità in tutto il mondo.",
+      image: "/assets/cover_card_mood.jpg",
+    },
+ 
     {
       title: "Innovative Surface",
       title1: "Cemento Contemporaneo",
@@ -88,22 +93,8 @@ export default function Slider() {
         "La collezione di cucine ABACO è stata studiata per adattarsi ad ogni esigenza di spazio garantendo configurazioni infinite e materiali contemporanei per soddisfare le necessità di stile richieste da architetti e professionisti dell’interior design.",
       image: "/assets/plebani_card_cover.jpg",
     },
-    {
-      title: "Mood",
-      title1: "The Design Magazine",
-      title3: "Mood",
-      description:
-        "La prima rivista digitale mensile in lingua iraniana dedicata al mondo del design e dell’interior design. Un punto di riferimento per rimanere aggiornati sull’evoluzione della contemporaneità in tutto il mondo.",
-      image: "/assets/cover_card_mood.jpg",
-    },
-    {
-      title: "Mabele",
-      title1: "Sarti del Metallo",
-      
-      description:
-        "Precursori nella lavorazione del metallo secondo i canoni del design contemporaneo, Mabele by Mabo1970 realizza opere d’architettura in tutto il mondo partendo da Torino, la patria del metallo.",
-      image: "/assets/cover_card_mabele.jpg",
-    },
+   
+   
   ];
 
   const CustomModel = () => (
