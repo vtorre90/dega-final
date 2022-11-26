@@ -147,10 +147,41 @@ export default function Slider() {
               <div className="slider-catalogo">
               {/* <CustomInnovativeSlider/> */}
               <img src="/assets/1_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/2_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA" id="picdesignercard" className="mb-3" />
+              <img src="/assets/2_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/3_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-           
-            </div>
+              <img src="/assets/4_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/5_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/6_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/7_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/8_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/9_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/10_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/11_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/12_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/13_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/14_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/15_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/16_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/17_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/18_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/19_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/20_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/21_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/22_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/23_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/24_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/25_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/26_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/27_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/28_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/29_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/30_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/31_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/32_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+                 <img src="/assets/33_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/34_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/35_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/36_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />            </div>
           )}   
 
 
