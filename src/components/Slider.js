@@ -30,8 +30,9 @@ export default function Slider() {
     {
       title: "Bruni",
       title1: "Laboratorio di Falegnameria",
+      title3: "2022",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "Il Laboratorio di Falegnameria BRUNI è disegnato sulle esigenze di architetti ed interior designers per realizzare i progetti sartoriali di oggi e guardare alla contemporaneità del domani.",
       image: "/assets/coverimage8.jpg",
     },
     {
