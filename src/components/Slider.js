@@ -352,8 +352,7 @@ export default function Slider() {
                <h4 className="mt-4 mb-3 font-fam">POSTCARDS ADV IS</h4>
                <img src="/assets/inn_34.jpg" id="picdesignercard" className="mb-3" />
                <h4 className="mt-4 mb-3 font-fam">LOGO IS</h4>
-               <img src="/assets/inn_35_light.jpg" id="picdesignercard" className="mb-3" />
-               <img src="/assets/inn_36_light.jpg" id="picdesignercard" className="mb-3" />
+             
               
                <img src="/assets/inn_39.jpg" id="picdesignercard" className="mb-3" />
                <img src="/assets/inn_40.jpg" id="picdesignercard" className="mb-3" />
