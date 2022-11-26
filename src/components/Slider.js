@@ -98,10 +98,10 @@ export default function Slider() {
     },
     {
       title: "Mabele",
-      title1: "Mabele",
-      title3: "Mabele",
+      title1: "Sarti del Metallo",
+      
       description:
-        "La collezione di cucine ABACO è stata studiata per adattarsi ad ogni esigenza di spazio garantendo configurazioni infinite e materiali contemporanei per soddisfare le necessità di stile richieste da architetti e professionisti dell’interior design.",
+        "Precursori nella lavorazione del metallo secondo i canoni del design contemporaneo, Mabele by Mabo1970 realizza opere d’architettura in tutto il mondo partendo da Torino, la patria del metallo.",
       image: "/assets/cover_card_mabele.jpg",
     },
   ];
