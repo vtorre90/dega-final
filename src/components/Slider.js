@@ -235,7 +235,7 @@ export default function Slider() {
               
               <h4 className="mt-4 mb-3 font-fam"><u>CATALOGHI</u></h4>
               <h4 className="mt-4 mb-3 font-fam">CATALOGO STILI</h4>
-              <h6 className="mt-4 mb-3 font-fam">2021</h6>
+              <h6 className="mt-2 mb-3 font-fam">2021</h6>
 
               <img src="/assets/22_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/23_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
@@ -270,7 +270,7 @@ export default function Slider() {
               
              
               <h4 className="mt-4 mb-3 font-fam">CATALOGO COLLEZIONI</h4>
-              <h6 className="mt-4 mb-3 font-fam">2019</h6>
+              <h6 className="mt-2 mb-3 font-fam">2019</h6>
                 
               <img src="/assets/52_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/53_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
@@ -291,7 +291,7 @@ export default function Slider() {
               
                 
                 <h4 className="mt-4 mb-3 font-fam">CATALOGO COLLEZIONI</h4>
-              <h6 className="mt-4 mb-3 font-fam">2016</h6>
+              <h6 className="mt-2 mb-3 font-fam">2016</h6>
                 
                 <img src="/assets/68_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
                 <img src="/assets/69_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
