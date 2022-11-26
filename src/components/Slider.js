@@ -461,7 +461,7 @@ export default function Slider() {
                   setModal(!modal);
                 }}
               >
-                <div class="card-category mt-5">{data.title}</div>
+                <div class="card-category mt-4">{data.title}</div>
                 <div class="card-title mt-2">{data.title1}</div>
             
                
