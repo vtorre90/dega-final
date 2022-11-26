@@ -190,6 +190,9 @@ export default function Slider() {
           { modelData[modelNum].title === "Arteba" && (
               <div className="slider-catalogo">
               {/* <CustomInnovativeSlider/> */}
+              <img src="/assets/149.1_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/151_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
+
               <img src="/assets/1_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/2_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/3_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
@@ -272,7 +275,6 @@ export default function Slider() {
               <img src="/assets/80_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/149.1_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/150_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/151_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
        </div>
              
           )}
