@@ -55,7 +55,6 @@ export default function Slider() {
      {
       title: "Mood",
       title1: "The Design Magazine",
-      title3: "Mood",
       description:
         "La prima rivista digitale mensile in lingua iraniana dedicata al mondo del design e dell’interior design. Un punto di riferimento per rimanere aggiornati sull’evoluzione della contemporaneità in tutto il mondo.",
       image: "/assets/cover_card_mood.jpg",
