@@ -212,7 +212,6 @@ export default function Slider() {
               <img src="/assets/9_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               
               <h4 className="mt-4 mb-3 font-fam">COLLEZIONE NEWSMART</h4>
-
                 
               <img src="/assets/10_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/11_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
