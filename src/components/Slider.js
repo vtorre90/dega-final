@@ -190,30 +190,54 @@ export default function Slider() {
           { modelData[modelNum].title === "Arteba" && (
               <div className="slider-catalogo">
               {/* <CustomInnovativeSlider/> */}
+              <h4 className="mt-4 mb-3 font-fam">NEW LOGO</h4>
               <img src="/assets/149.1_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/151_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
-
+              <h4 className="mt-4 mb-3 font-fam">COLLEZIONI</h4>
+              <h4 className="mt-4 mb-3 font-fam">COLLEZIONE RUSTECH</h4>
               <img src="/assets/1_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/2_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/3_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
+           
+              <h4 className="mt-4 mb-3 font-fam">COLLEZIONE LINEA</h4>
+               
               <img src="/assets/4_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/5_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/6_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
+              
+              <h4 className="mt-4 mb-3 font-fam">COLLEZIONE EPOQUE</h4>
+
               <img src="/assets/7_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/8_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/9_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
+              
+              <h4 className="mt-4 mb-3 font-fam">COLLEZIONE NEWSMART</h4>
+
+                
               <img src="/assets/10_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/11_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
+              
+              <h4 className="mt-4 mb-3 font-fam">COLLEZIONE SUPERNATURAL</h4>
+
+                
               <img src="/assets/12_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/13_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/14_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/15_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
+              
+              <h4 className="mt-4 mb-3 font-fam">ALFABETO ARTEBA</h4>
+
+            <img src="/assets/15_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/16_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/17_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
                 <img src="/assets/18_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/19_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/20_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/21_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
+              
+              <h4 className="mt-4 mb-3 font-fam">CATALOGHI</h4>
+              <h4 className="mt-4 mb-3 font-fam">CATALOGO STILI</h4>
+              <h6 className="mt-4 mb-3 font-fam">2021</h6>
+
               <img src="/assets/22_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/23_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/24_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
@@ -244,7 +268,12 @@ export default function Slider() {
               <img src="/assets/49_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/50_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/51_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
-                <img src="/assets/52_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
+              
+             
+              <h4 className="mt-4 mb-3 font-fam">CATALOGO COLLEZIONI</h4>
+              <h6 className="mt-4 mb-3 font-fam">2019</h6>
+                
+              <img src="/assets/52_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/53_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/54_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/55_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
@@ -260,7 +289,12 @@ export default function Slider() {
               <img src="/assets/65_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/66_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/67_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/68_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
+              
+                
+                <h4 className="mt-4 mb-3 font-fam">CATALOGO COLLEZIONI</h4>
+              <h6 className="mt-4 mb-3 font-fam">2016</h6>
+                
+                <img src="/assets/68_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
                 <img src="/assets/69_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/70_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/71_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
