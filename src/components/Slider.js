@@ -187,7 +187,7 @@ export default function Slider() {
           
           
           
-          modelData[modelNum].title === "Arteba" && (
+          { modelData[modelNum].title === "Arteba" && (
               <div className="slider-catalogo">
               {/* <CustomInnovativeSlider/> */}
               <img src="/assets/1_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
