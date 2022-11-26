@@ -142,6 +142,20 @@ export default function Slider() {
               {modelData[modelNum].description}
             </p>
           </div>
+
+{modelData[modelNum].title === "Bruni" && (
+              <div className="slider-catalogo">
+              {/* <CustomInnovativeSlider/> */}
+              <img src="/assets/1_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/2_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA" id="picdesignercard" className="mb-3" />
+              <img src="/assets/3_BRUNI_FALEGNAMERIA_WOOD_DESIGN_ART DIRECTION_GRAPHIC_ARCHITECTS_INTERIOR DESIGN_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+           
+            </div>
+          )}   
+
+
+
+
           {modelData[modelNum].title === "Innovative Surface" && (
             <div className="font-fam">
               <h4 className="font-fam">CATALOGO IS</h4>
