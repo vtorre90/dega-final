@@ -224,7 +224,7 @@ export default function Slider() {
               <img src="/assets/13_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/14_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               
-              <h4 className="mt-4 mb-3 font-fam"><u>ALFABETO ARTEBA</u></h4>
+              <h4 className="mt-5 mb-3 font-fam"><u>ALFABETO ARTEBA</u></h4>
 
             <img src="/assets/15_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/16_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
