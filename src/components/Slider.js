@@ -462,7 +462,7 @@ export default function Slider() {
               <img src="/assets/mabele/7_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/mabele/8_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" /> 
               <img src="/assets/mabele/9_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/10_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/10_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/mabele/11_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/mabele/12_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/mabele/13_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
