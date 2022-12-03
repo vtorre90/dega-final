@@ -425,7 +425,7 @@ export default function Slider() {
               <img src="/assets/prandina_1.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/prandina_2.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/prandina_3.jpg" id="picdesignercard" className="mb-3" />
-         
+              <img src="/assets/prandina_4.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/prandina_5.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/prandina_6.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/prandina_7.jpg" id="picdesignercard" className="mb-3" />
