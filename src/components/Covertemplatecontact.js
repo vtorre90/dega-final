@@ -30,8 +30,8 @@ function Convertemplatecontact() {
         <span className="subtitle">Sede legale</span>
         <span>Enrico Deganello</span>
         <span>Via Tiziano Vecellio 73</span>
-        <span>35100, Padova, Italia</span>
-        <span>0000000000</span>
+        <span>35132, Padova, Italia</span>
+        <span>04867810287</span>
       </div>
       <Breadcrumb text="Back to top" />
     </div>
