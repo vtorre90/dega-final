@@ -4,6 +4,10 @@ import Breadcrumblack from "./Breadcrumblack";
 const ContactPageRefs = () => {
   return (
     <div className="contactReferences text-black" id="refs">
+    <img
+        src={process.env.PUBLIC_URL + "/imgnera.jpg"}
+        className="mb-3"
+      />
       <div className="text-black">
         <p className="pt-2" style={{ fontWeight: "600" }}>
           "La collaborazione con Enrico Deganello ci ha permesso di evolvere
