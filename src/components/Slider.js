@@ -28,7 +28,7 @@ export default function Slider() {
 
   const modelData = [
     {
-      title: "Bruniii",
+      title: "Bruni",
       title1: "Laboratorio di Falegnameria",
       title3: "2022",
       description:
