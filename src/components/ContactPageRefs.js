@@ -5,7 +5,7 @@ const ContactPageRefs = () => {
   return (
     <div className="contactReferences text-black" id="refs">
     <img
-        src={process.env.PUBLIC_URL + "/imgnera.jpg"}
+        src={process.env.PUBLIC_URL + "/imgnera2.jpg"}
         className="mb-3"
       />
       <div className="text-black">
