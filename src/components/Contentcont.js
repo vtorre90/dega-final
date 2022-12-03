@@ -4,7 +4,7 @@ function Contentcont() {
   return (
     <div className="text-black">
       <img
-        src={process.env.PUBLIC_URL + "/picdesigner.jpg"}
+        src={process.env.PUBLIC_URL + "/designer2.png"}
         id="picdesigner"
         className="mb-3"
       />
