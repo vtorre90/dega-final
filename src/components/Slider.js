@@ -455,8 +455,8 @@ export default function Slider() {
               {/* <CustomInnovativeSlider/> */}
 
               <h4 className="mt-5 mb-2 font-fam"><u>COLLEZIONI</u></h4>
-              <h4 className="mt-4 mb-3 font-fam">CATALOGO ARCHITETTURE</h4>
-                        <h6 className="font-fam">2020</h6>
+              <h4 className="mt-4 font-fam">CATALOGO ARCHITETTURE</h4>
+              <h6 className="font-fam">2020</h6>
 
               <img src="/assets/mabele/1_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/mabele/2_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
