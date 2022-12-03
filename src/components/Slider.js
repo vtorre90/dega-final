@@ -578,7 +578,7 @@ export default function Slider() {
               <h4 className="mt-4 font-fam">Roma</h4>
               <h6 className="font-fam">Table/metal/glass</h6>
                 <img src="/assets/mabele/74_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-                              <h4 className="mt-5 mb-2 font-fam"><u>FINITURE ESCLUSIVE</u></h4>
+                              <h4 className="mt-5 mb-4 font-fam"><u>FINITURE ESCLUSIVE</u></h4>
 
                   <img src="/assets/mabele/75_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/mabele/76_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
