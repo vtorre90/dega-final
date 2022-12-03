@@ -553,6 +553,7 @@ export default function Slider() {
           )}        
         </div>
       </div>
+<Breadcrumb text="Back to top" />
     </Modal>
   );
 
