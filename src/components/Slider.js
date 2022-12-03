@@ -540,7 +540,7 @@ export default function Slider() {
               <img src="/assets/mabele/56_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
               
                 <h4 className="mt-5 mb-2 font-fam"><u>DESIGN</u></h4>
-              <h4 className="mt-4 mb-3 font-fam">Kanone/Bit</h4>
+              <h4 className="mt-4 font-fam">Kanone/Bit</h4>
               <h6 className="font-fam">Tv table/Cofee table/metal</h6>
 
                 <img src="/assets/mabele/57_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
@@ -559,7 +559,7 @@ export default function Slider() {
               <img src="/assets/mabele/64_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/mabele/65_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
               
-                <h4 className="mt-4 mb-3 font-fam">Memphis</h4>
+                <h4 className="mt-4 font-fam">Memphis</h4>
               <h6 className="font-fam">Flooring/metal</h6>
                 <img src="/assets/mabele/66_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/mabele/67_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
@@ -570,12 +570,12 @@ export default function Slider() {
                 <img src="/assets/mabele/69_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/mabele/70_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
               
-                <h4 className="mt-4 mb-3 font-fam">Kolata</h4>
+                <h4 className="mt-4 font-fam">Kolata</h4>
               <h6 className="font-fam">Bookshelf/metal</h6>
                 <img src="/assets/mabele/71_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" /> 
               <img src="/assets/mabele/72_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/mabele/73_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <h4 className="mt-4 mb-3 font-fam">Roma</h4>
+              <h4 className="mt-4 font-fam">Roma</h4>
               <h6 className="font-fam">Table/metal/glass</h6>
                 <img src="/assets/mabele/74_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
                               <h4 className="mt-5 mb-2 font-fam"><u>FINITURE ESCLUSIVE</u></h4>
