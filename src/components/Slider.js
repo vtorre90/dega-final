@@ -182,9 +182,8 @@ export default function Slider() {
               {/* <CustomInnovativeSlider/> */}
               <h4 className="mt-4 mb-5 font-fam"><u>NEW LOGO</u></h4>
               <img src="/assets/149.1_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
-                            <img src="/assets/150_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
-
-                <img src="/assets/151_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/150_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/151_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello151.jpg" id="picdesignercard" className="mb-3" />
               <h4 className="mt-5 mb-2 font-fam"><u>COLLEZIONI</u></h4>
               <h4 className="mt-4 mb-3 font-fam">COLLEZIONE RUSTECH</h4>
               <img src="/assets/1_arteba_arredobagno_design_catalogo_prodotto_art direction_enrico deganello.jpg" id="picdesignercard" className="mb-3" />
