@@ -6,7 +6,8 @@ const ContactPageRefs = () => {
     <div className="contactReferences text-black" id="refs">
     <img
         src={process.env.PUBLIC_URL + "/imgnera2.png"}
-        className="mb-3"
+        id="picdesigner"
+        className="mb-3 lavandino"
       />
       <div className="text-black">
         <p className="pt-2" style={{ fontWeight: "600" }}>
