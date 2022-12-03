@@ -12,7 +12,7 @@ function ContactPageComp() {
     <div className="contact-page-comp" id="contacts">
      
       <div className="dots-main">
-        <a href="https://www.instagram.com/enricodeganello/" target="_blank">
+        <a href="https://www.instagram.com/dega_atelier/" target="_blank">
           <img className="dots" src="assets/instagram_trasparent.png" alt="" />
         </a>
         <a href="tel:00393470123634" target="_blank">
