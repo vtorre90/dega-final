@@ -457,98 +457,98 @@ export default function Slider() {
               <img src="/assets/2_MABELE.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/3_MABELE.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/mabele/4_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/5_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/6_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/7_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/8_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" /> 
-              <img src="/assets/mabele/9_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/5_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/6_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/7_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/8_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" /> 
+              <img src="/assets/mabele/9_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/mabele/10_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/11_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/12_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/13_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/14_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/15_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/15.1_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/15.2_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/15.3_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/15.4_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/15.5_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/15.6_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/15.7_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/16_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" /> 
-              <img src="/assets/mabele/17_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/18_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/19_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/19.1_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/20_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/21_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/22_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/22.1_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/23_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/24_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" /> 
-              <img src="/assets/mabele/25_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/26_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/27_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/28_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/29_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/30_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/31_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/31_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/32_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/33_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/34_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/35_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/36_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/37_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/38_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/39_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" /> 
-              <img src="/assets/mabele/40_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/41_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/42_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/43_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/44_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/45_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/46_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/47_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" /> 
-              <img src="/assets/mabele/48_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/49_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/50_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/51_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/52_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/53_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/54_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/55_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" /> 
-              <img src="/assets/mabele/56_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/57_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/58_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/59_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/60_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/61_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/62_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/63_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/64_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/65_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/66_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/67_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/68_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/69_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/70_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/71_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" /> 
-              <img src="/assets/mabele/72_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/73_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/74_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/75_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/76_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/77_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/78_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/79_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/80_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/81_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/82_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/83_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/84_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/85_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <img src="/assets/mabele/86_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE_ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/11_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/12_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/13_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/14_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/15_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/15.1_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/15.2_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/15.3_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/15.4_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/15.5_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/15.6_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/15.7_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/16_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" /> 
+              <img src="/assets/mabele/17_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/18_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/19_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/19.1_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/20_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/21_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/22_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/22.1_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/23_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/24_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" /> 
+              <img src="/assets/mabele/25_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/26_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/27_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/28_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/29_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/30_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/31_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/31_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/32_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/33_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/34_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/35_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/36_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/37_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/38_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/39_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" /> 
+              <img src="/assets/mabele/40_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/41_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/42_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/43_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/44_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/45_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/46_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/47_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" /> 
+              <img src="/assets/mabele/48_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/49_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/50_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/51_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/52_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/53_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/54_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/55_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" /> 
+              <img src="/assets/mabele/56_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/57_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/58_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/59_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/60_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/61_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/62_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/63_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/64_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/65_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/66_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/67_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/68_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/69_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/70_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/71_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" /> 
+              <img src="/assets/mabele/72_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/73_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/74_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/75_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/76_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/77_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/78_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/79_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/80_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/81_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/82_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/83_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/84_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/85_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
+              <img src="/assets/mabele/86_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
 
             </div>
           )}        
