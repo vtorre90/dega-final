@@ -13,6 +13,7 @@ import { Modal } from "@mui/material";
 // ** import icons
 import { X } from "react-feather";
 import CustomInnovativeSlider from "./CustomInnovativeSlider";
+import Breadcrumb from "./Breadcrumb";
 
 const breakPoints = [
   { width: 1, itemsToShow: 1 },
