@@ -519,9 +519,7 @@ export default function Slider() {
               <img src="/assets/mabele/38_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
               <img src="/assets/mabele/39_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" /> 
               
-                
-                <img src="/assets/mabele/40_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
-              <h4 className="mt-5 font-fam">CATALOGO ARCHITETTURE</h4>
+                              <h4 className="mt-5 font-fam">CATALOGO ARCHITETTURE</h4>
               <h6 className="font-fam">2014</h6>
                   
                   <img src="/assets/mabele/41_CATALOGO_GRAFICA_MABELE_ENRICO_DEGANELLO_ARCHITECTURE_METAL_DIREZIONE ARTISTICA.jpg" id="picdesignercard" className="mb-3" />
