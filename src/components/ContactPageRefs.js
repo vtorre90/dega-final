@@ -17,7 +17,8 @@ const ContactPageRefs = () => {
           nostro target di riferimento"
         </p>
         <p className="pt-1 pb-2" style={{ fontWeight: "600" }}>Angelo Bruni / Titolare Bruni</p>
-        <p>
+        <br>
+<p>
           "Collaborando con Enrico ho avuto modo di confrontarmi con una persona molto analitica e concreta. Ai miei 1.000 quesiti, mai una risposta di circostanza, ma sempre discussioni argomentate e soprattutto trasversale, mai banale. Questo modo di confrontarsi ha permesso all’azienda di scavare in profondità nelle dinamiche aziendali facendoci trovare soluzioni che hanno poi avuto un riscontro molto positivo nel mercato. Tra le varie caratteristiche, la capacità di analizzare e sintetizzare i fatti per poi trasformarli in soluzioni aziendali è certamente la qualità che più si è dimostrata più proficua"
         </p>
         <p>Andrea Perin / Titolare Arteba</p>
@@ -25,7 +26,7 @@ const ContactPageRefs = () => {
           "Lo studio Deganello ha contribuito a dare una organizzazione stilistica e commerciale alla mia azienda gestendo lo sviluppo del materiale grafico in funzione del target di riferimento. Il risultato è stato un aumento di valore della nostra produzione, un messaggio commerciale efficace, un catalogo al top nel suo settore ed una vision a lungo termine. Confrontarsi con una persona di esperienza come Enrico è sempre un piacere poichè sa trasformare domande aziendali in azioni concrete."
         </p>
         <p>Roberta Bonomi / Innovative Surface</p>
-
+ <br>
 <p className="pt-2" style={{ fontWeight: "600" }}>
           "Sicuro nell’obiettivo, flessibile nel processo. Direi che questa è la miglior definizione di uno studio unico nel suo genere come quello che Enrico Deganello ha creato. Ho avuto la fortuna di collaborare con Enrico per molti anni e con aziende diverse toccando con mano I risultati ottenuti. Lo studio sa unire e coordinare in modo perfettamente organico ricercatezza stilistica, sviluppo prodotto e azioni commerciali. Risultato garantito."
         </p>
