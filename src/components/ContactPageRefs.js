@@ -23,7 +23,7 @@ const ContactPageRefs = () => {
         <p>
           "Lo studio Deganello ha contribuito a dare una organizzazione stilistica e commerciale alla mia azienda gestendo lo sviluppo del materiale grafico in funzione del target di riferimento. Il risultato è stato un aumento di valore della nostra produzione, un messaggio commerciale efficace, un catalogo al top nel suo settore ed una vision a lungo termine. Confrontarsi con una persona di esperienza come Enrico è sempre un piacere poichè sa trasformare domande aziendali in azioni concrete."
         </p>
-        <p className="pt-1 pb-4" style={{ fontWeight: "600" }}>Roberta Bonomi / Innovative Surface</p>
+        <p className="pt-1 pb-4" style={{ fontWeight: "600" }}>Roberta Bonomi / Titolare Innovative Surface</p>
 
 <p>
           "Sicuro nell’obiettivo, flessibile nel processo. Direi che questa è la miglior definizione di uno studio unico nel suo genere come quello che Enrico Deganello ha creato. Ho avuto la fortuna di collaborare con Enrico per molti anni e con aziende diverse toccando con mano I risultati ottenuti. Lo studio sa unire e coordinare in modo perfettamente organico ricercatezza stilistica, sviluppo prodotto e azioni commerciali. Risultato garantito."
