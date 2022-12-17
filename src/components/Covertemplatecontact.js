@@ -9,7 +9,7 @@ function Convertemplatecontact() {
     <div className="cover-template-slider -mt-5" id="contact">
       <div className="text-main line-height-sm"></div>
       <div className="dots-main">
-        <a href="https://www.instagram.com/enricodeganello/" target="_blank">
+        <a href="https://www.instagram.com/enricodeganellostudio/" target="_blank">
           <img className="dots" src="assets/instagram_trasparent.png" alt="" />
         </a>
         <a href="tel:00393470123634" target="_blank">
