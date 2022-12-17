@@ -10,13 +10,13 @@ const ContactPageRefs = () => {
         className="mb-3 lavandino"
       />
       <div className="text-black">
-              <h4>Referenze</h4>
-        <p>
+              <h4">Referenze</h4>
+        <p className="pt-2">
           "La collaborazione con Enrico Deganello ci ha permesso di evolvere
           come azienda mostrandoci al pubblico come desideravamo e trovando il
           nostro target di riferimento"
         </p>
-        <p className="pt-2" style={{ fontWeight: "600" }}>Angelo Bruni / Titolare Bruni</p>
+        <p className="pt-1 pb-2" style={{ fontWeight: "600" }}>Angelo Bruni / Titolare Bruni</p>
         <p>
           "Collaborando con Enrico ho avuto modo di confrontarmi con una persona molto analitica e concreta. Ai miei 1.000 quesiti, mai una risposta di circostanza, ma sempre discussioni argomentate e soprattutto trasversale, mai banale. Questo modo di confrontarsi ha permesso all’azienda di scavare in profondità nelle dinamiche aziendali facendoci trovare soluzioni che hanno poi avuto un riscontro molto positivo nel mercato. Tra le varie caratteristiche, la capacità di analizzare e sintetizzare i fatti per poi trasformarli in soluzioni aziendali è certamente la qualità che più si è dimostrata più proficua"
         </p>
