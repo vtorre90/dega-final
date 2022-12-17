@@ -6,7 +6,7 @@ import React from "react";
 
 function Convertemplatecontact() {
   return (
-    <div className="cover-template-slider -mt-5" id="contact">
+    <div className="cover-template-slider -mt-5" id="contacts">
       <div className="text-main line-height-sm"></div>
       <div className="dots-main">
         <a href="https://www.instagram.com/enricodeganellostudio/" target="_blank">
