@@ -36,14 +36,7 @@ function ContactPageComp() {
         <span>35132, Padova, Italia</span>
         <span>04867810287</span>
       </div>
-      <div
-        className="main-bread pb-5"
-        style={{ cursor: "pointer" }}
-        onClick={handelSmoothScroll}
-      >
-        <div className="dot-black"></div>
-        <div className="text-dot">Back to Top</div>
-      </div>
+     
     </div>
   );
 }
