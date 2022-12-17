@@ -30,7 +30,7 @@ const ContactPageRefs = () => {
 <p>
           "Sicuro nell’obiettivo, flessibile nel processo. Direi che questa è la miglior definizione di uno studio unico nel suo genere come quello che Enrico Deganello ha creato. Ho avuto la fortuna di collaborare con Enrico per molti anni e con aziende diverse toccando con mano I risultati ottenuti. Lo studio sa unire e coordinare in modo perfettamente organico ricercatezza stilistica, sviluppo prodotto e azioni commerciali. Risultato garantito."
         </p>
-        <p className="pt-1 pb-2" style={{ fontWeight: "600" }}>Giovanni Defendi  / Consulente Materiali per Studi di Architettura</p>
+        <p className="pt-1 pb-2" style={{ fontWeight: "600" }}>Giovanni Defendi / Consulente Materiali per Studi di Architettura</p>
       </div>
     </div>
   );
