@@ -397,6 +397,26 @@ export default function Slider() {
           <img src="/assets/gentilin_2.jpg" id="picdesignercard" className="mb-3" />
              <img src="/assets/gentilin_3.jpg" id="picdesignercard" className="mb-3" />
           <img src="/assets/gentilin_4.jpg" id="picdesignercard" className="mb-5" />
+            <img src="/assets/gentilin_5.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/gentilin_6.jpg" id="picdesignercard" className="mb-3" />
+             <img src="/assets/gentilin_7.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/gentilin_8.jpg" id="picdesignercard" className="mb-5" />
+            <img src="/assets/gentilin_9.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/gentilin_10.jpg" id="picdesignercard" className="mb-3" />
+             <img src="/assets/gentilin_11.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/gentilin_12.jpg" id="picdesignercard" className="mb-5" />
+            <img src="/assets/gentilin_13.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/gentilin_14.jpg" id="picdesignercard" className="mb-3" />
+             <img src="/assets/gentilin_15.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/gentilin_16.jpg" id="picdesignercard" className="mb-5" />
+            <img src="/assets/gentilin_17.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/gentilin_18.jpg" id="picdesignercard" className="mb-3" />
+             <img src="/assets/gentilin_19.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/gentilin_20.jpg" id="picdesignercard" className="mb-5" />
+              <img src="/assets/gentilin_21.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/gentilin_22.jpg" id="picdesignercard" className="mb-5" />
+              <img src="/assets/gentilin_91.jpg" id="picdesignercard" className="mb-3" />
+          <img src="/assets/gentilin_191.jpg" id="picdesignercard" className="mb-5" />
             </div>
 
           )}
