@@ -590,18 +590,24 @@ font-family: "Oswald";
 }
 
 .contact-page-comp {
-  height: 100vh;
+height: 100vh;
   background-color: var(--main);
   overflow-x: hidden;
-  padding: 0px 16px;
-  /* padding-top: 125px; */
-  padding-bottom: 65px;
-  margin-top: -1px;
+  padding: 50px 16px;
+  padding-top: 0px;
+  margin-top: -40px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   overflow-y: hidden;
 }
+
+
+  
+
+
+
+
 
 .contact-text {
   color: var(--black);
