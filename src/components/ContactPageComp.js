@@ -28,6 +28,7 @@ function ContactPageComp() {
         <span>Enrico Deganello Studio</span>
         <span>Via Saccarelli 14</span>
         <span>10144, Torino, Italia</span>
+        <span>+39 347 012 3634</span>
       </div>
       <div className="d-flex flex-column contact-text line-height-lg">
         <span className="subtitle">Sede legale</span>
