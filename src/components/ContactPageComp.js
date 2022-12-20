@@ -9,7 +9,7 @@ function ContactPageComp() {
     });
   };
   return (
-    <div className="contact-page-comp" id="contacts">
+    <div className="contact-page-comp -mt-5" id="contacts">
      
       <div className="dots-main">
         <a href="https://www.instagram.com/enricodeganellostudio/" target="_blank">
