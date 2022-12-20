@@ -23,14 +23,14 @@ function ContactPageComp() {
           <img className="dots" src="assets/mail.png" alt="" />
         </a>
       </div>
-      <div className="d-flex flex-column contact-text mt-5 line-height-lg">
+      <div className="d-flex flex-column contact-text mt-5 line-height-sm">
         <span className="subtitle">Sede operativa</span>
         <span>Enrico Deganello Studio</span>
         <span>Via Saccarelli 14</span>
         <span>10144, Torino, Italia</span>
         <span>+39 347 012 3634</span>
       </div>
-      <div className="d-flex flex-column contact-text line-height-lg">
+      <div className="d-flex flex-column contact-text line-height-sm">
         <span className="subtitle">Sede legale</span>
         <span>Enrico Deganello</span>
         <span>Via Tiziano Vecellio 73</span>
