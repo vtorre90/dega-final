@@ -12,7 +12,7 @@ function Homepage() {
       <Covertemplate />
       <Covertemplateslider />
       <Convertemplatecontact />
-          <ContactPageComp />
+          <Contactpagecomp />
 
     </div>
   );
