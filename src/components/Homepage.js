@@ -2,7 +2,6 @@ import React from "react";
 import Covertemplate from "./Covertemplate";
 import Covertemplateslider from "./Covertemplateslider";
 import Convertemplatecontact from "./Covertemplatecontact";
-import Contactpagecomp from "./Contactpagecomp";
 import Header from "./Header";
 
 function Homepage() {
@@ -12,7 +11,6 @@ function Homepage() {
       <Covertemplate />
       <Covertemplateslider />
       <Convertemplatecontact />
-          <Contactpagecomp />
 
     </div>
   );
