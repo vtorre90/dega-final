@@ -246,7 +246,7 @@ h3 {
 }
 
 .cover-template {
-  height: 100vh;
+  height: 70vh;
   /* background-color: var(--black); */
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
     url("./assets/home.jpg");
@@ -590,7 +590,7 @@ font-family: "Oswald";
 }
 
 .contact-page-comp {
-  height: 100vh;
+  height: 70vh;
   background-color: var(--main);
   overflow-x: hidden;
   padding: 0px 16px;
