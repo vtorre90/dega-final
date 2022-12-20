@@ -296,7 +296,7 @@ h3 {
 }
 
 .cover-template-slider {
-  
+  height: 100vh;
   background-color: var(--black);
   overflow-x: hidden;
   padding: 50px 16px;
@@ -590,7 +590,7 @@ font-family: "Oswald";
 }
 
 .contact-page-comp {
-  /* height: 100vh;  */
+  height: 100vh;
   background-color: var(--main);
   overflow-x: hidden;
   padding: 0px 16px;
