@@ -7,7 +7,7 @@ import ContactPageRefs from "./ContactPageRefs";
 
 function Contactpage() {
   return (
-    <div>
+    <div className="contact-page-main">
       <Headercontact className="bg-main text-black" />
       <Covertemplatecont />
       <ContactReferences />
