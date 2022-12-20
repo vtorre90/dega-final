@@ -296,7 +296,7 @@ h3 {
 }
 
 .cover-template-slider {
-  height: 100vh;
+  
   background-color: var(--black);
   overflow-x: hidden;
   padding: 50px 16px;
