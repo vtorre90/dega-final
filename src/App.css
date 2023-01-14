@@ -12,11 +12,13 @@ body {
   line-height: 2rem;
 }
 
-h4, h6{
+h4,
+h6 {
   font-family: "Oswald" !important;
 }
 
-h4, h6{
+h4,
+h6 {
   font-family: "Oswald";
 }
 
@@ -24,8 +26,6 @@ h4, h6{
 html {
   scroll-behavior: smooth;
 }
-
-
 
 /* hide scrollbar */
 /* ::-webkit-scrollbar {
@@ -125,7 +125,8 @@ h3 {
 }
 
 .header-main {
-  position: fixed;
+  /* position: fixed; */
+  position: relative;
   width: 100%;
   display: flex;
   justify-content: space-between;
@@ -151,7 +152,8 @@ h3 {
 
 .hamburger {
   position: absolute;
-  right: 32px;
+  /* right: 32px; */
+  right: -409px;
   top: 20px;
   bottom: 8px;
 }
@@ -413,11 +415,12 @@ h3 {
   color: red;
 }
 
-.home-page, .contact-page-main {
+.home-page,
+.contact-page-main {
   width: 100vw;
   position: relative;
   margin: 0 auto;
-  max-width:600px;
+  max-width: 600px;
 }
 
 .slider {
@@ -478,10 +481,10 @@ h3 {
   color: #000000 !important;
 }
 
-.card-body-int{
-font-family: "Oswald";
+.card-body-int {
+  font-family: "Oswald";
   font-size: 24px;
-    font-weight: 400;
+  font-weight: 400;
 }
 
 .card-category-int {
@@ -574,8 +577,8 @@ font-family: "Oswald";
 }
 
 .title-catalogo {
-   font-family: "Oswald";
-   color: black !important;
+  font-family: "Oswald";
+  color: black !important;
 }
 
 .subtitle-catalogo {
@@ -591,7 +594,7 @@ font-family: "Oswald";
 }
 
 .contact-page-comp {
-height: 100vh;
+  height: 100vh;
   background-color: var(--main);
   overflow-x: hidden;
   padding: 50px 16px;
@@ -603,17 +606,35 @@ height: 100vh;
   overflow-y: hidden;
 }
 
-
-  
-
-
-
-
-
 .contact-text {
   color: var(--black);
   padding-bottom: 40px;
   font-size: 16px;
+}
+
+/* @media screen and (min-width: 600px) {
+  .header-main {
+    width: 89%;
+  }
+}
+@media screen and (min-width: 700px) {
+  .header-main {
+    width: 85%;
+  }
+}
+@media screen and (min-width: 1050px) {
+  .header-main {
+    width: 37%;
+  }
+} */
+
+@media screen and (max-width: 600px) {
+  .hamburger {
+    right: 32px;
+  }
+  .header-main {
+    position: fixed;
+  }
 }
 
 /* mobile view img height */
@@ -623,14 +644,20 @@ height: 100vh;
   }
 }
 
-.MuiButtonBase-root .MuiIconButton-root .MuiIconButton-sizeMedium .model-close .css-1yxmbwk{
+.MuiButtonBase-root
+  .MuiIconButton-root
+  .MuiIconButton-sizeMedium
+  .model-close
+  .css-1yxmbwk {
   right: 25px !important;
 }
 
-font-fam h4, font-fam h6, font-fam{
+font-fam h4,
+font-fam h6,
+font-fam {
   font-family: "Oswald";
 }
 
-.card-anno-int{
+.card-anno-int {
   font-size: 17px;
 }

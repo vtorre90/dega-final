@@ -10,9 +10,12 @@ function ContactPageComp() {
   };
   return (
     <div className="contact-page-comp -mt-5" id="contacts">
-     <div className="text-main line-height-sm"></div>
+      <div className="text-main line-height-sm"></div>
       <div className="dots-main">
-        <a href="https://www.instagram.com/enricodeganellostudio/" target="_blank">
+        <a
+          href="https://www.instagram.com/enricodeganellostudio/"
+          target="_blank"
+        >
           <img className="dots" src="assets/instagram_trasparent.png" alt="" />
         </a>
         <a href="tel:00393470123634" target="_blank">
@@ -37,7 +40,6 @@ function ContactPageComp() {
         <span>35132, Padova, Italia</span>
         <span>04867810287</span>
       </div>
-     
     </div>
   );
 }

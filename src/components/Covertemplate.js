@@ -9,7 +9,6 @@ function Convertemplate() {
   return (
     <div className="cover-template">
       <Content />
-      
     </div>
   );
 }

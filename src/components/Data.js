@@ -11,11 +11,12 @@ export default function Data() {
     day: "numeric",
   };
   // const date = `${current.getDate()}/${current.getMonth()+1}/${current.getFullYear()}`;
+
+  const date = event.toLocaleDateString("it-IT", options).replace(/,/g, " ");
+
   return (
     <div className="date-main">
-      <span>
-        {event.toLocaleDateString("en-EN", options).replace(/,/g, " ")}
-      </span>
+      <span>{date[0].toUpperCase() + date.slice(1)}</span>
     </div>
   );
 }

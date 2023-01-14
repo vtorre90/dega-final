@@ -11,7 +11,6 @@ function Homepage() {
       <Covertemplate />
       <Covertemplateslider />
       <Convertemplatecontact />
-
     </div>
   );
 }
