@@ -6,9 +6,9 @@ import { Menu } from "react-feather";
 function Header() {
   return (
     <div
-      style={{
-        position: "fixed",
-      }}
+    // style={{
+    //   position: "fixed",
+    // }}
     >
       <div className="header-main">
         <span className="text-white">
