@@ -612,6 +612,10 @@ h3 {
   font-size: 16px;
 }
 
+.model-close {
+  right: 100px;
+}
+
 /* @media screen and (min-width: 600px) {
   .header-main {
     width: 89%;
@@ -642,14 +646,9 @@ h3 {
   .model-img {
     max-height: 70vh;
   }
-}
-
-.MuiButtonBase-root
-  .MuiIconButton-root
-  .MuiIconButton-sizeMedium
-  .model-close
-  .css-1yxmbwk {
-  right: 25px !important;
+  .model-close {
+    right: 25px !important;
+  }
 }
 
 font-fam h4,
