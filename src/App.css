@@ -642,6 +642,9 @@ h3 {
 } */
 
 @media screen and (max-width: 600px) {
+  .cover-template {
+    height: 100vh;
+  }
   .hamburger {
     right: 32px;
   }
